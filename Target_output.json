@@ -1,0 +1,894 @@
+{
+    "success": true,
+    "platform": "target_search",
+    "search": "Laptop",
+    "page": 1,
+    "total_results": 1082,
+    "no_of_pages": 46,
+    "result_count": 30,
+    "results": [
+        {
+            "id": "1004936222",
+            "url": "https://www.target.com/p/hp-255-g10-laptop-15-6-fhd-ryzen-5-7530u-radeon-graphics-32gb-ram-1tb-ssd-wi-fi-6-windows-11-pro-silver/-/A-1004936222",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_c78052bb-500b-4382-8e97-5084c90e04d8",
+            "name": "HP 255 G10 Laptop, 15.6\" FHD, Ryzen 5 7530U, Radeon Graphics, 32GB RAM, 1TB SSD, Wi-Fi 6, Windows 11 Pro, Silver",
+            "brand": "HP Inc.",
+            "price": 568.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 4.5,
+            "total_ratings": 8,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_c78052bb-500b-4382-8e97-5084c90e04d8",
+                "https://target.scene7.com/is/image/Target/GUEST_24f251a6-edec-48a7-af5b-41d94707bde0",
+                "https://target.scene7.com/is/image/Target/GUEST_b54ed6be-ec6c-4563-80be-509d64a59fac",
+                "https://target.scene7.com/is/image/Target/GUEST_768dae76-e823-4177-a0d7-ef37132865b4",
+                "https://target.scene7.com/is/image/Target/GUEST_c4a08ce4-30e7-4007-9e8f-ac379ca06afe",
+                "https://target.scene7.com/is/image/Target/GUEST_64715ad8-aacb-499a-a274-8daaaff3aec0",
+                "https://target.scene7.com/is/image/Target/GUEST_ac4a012d-02cf-4dc7-a463-62391f89e098"
+            ],
+            "features": [
+                "[Massive RAM and Ultra-Fast Storage] 32GB of high-bandwidth DDR4 RAM for smooth, lag-free performance while running multiple applications and browser tabs simultaneously. Coupled with a 1TB PCIe NVMe M.2 SSD for lightning-fast boot times and data transfer speeds",
+                "[Powerful Processing] AMD Ryzen 5 7530U Processor (6 Cores, 12 Threadss, 16 MB L3 Cache, Base Frequency at 2.0 GHz, Up to 4.5 GHz at Max Turbo Frequency), integrated with AMD Radeon Graphics for superior multitasking and working high-performance graphics",
+                "[Immersive Display] 15.6\" diagonal, FHD (1920 x 1080), Micro-edge, Anti-glare, 250 nits Brightness, 45% NTSC, 60Hz",
+                "[Comprehensive Connectivity Options] Includes 1 x USB Type-C(5Gbps), 2 x USB Type-A(5Gbps), 1 x HDMI, 1 x Headphone/Microphone combo, 720p HD Camera, Numeric Keypad, Wi-Fi 6 and Bluetooth for versatile and high-speed connections to various devices and networks",
+                "[Windows 11 for Enhanced Productivity] Windows 11 Pro - Built for business with advanced security (BitLocker, WIP), remote desktop access, virtualization (Hyper-V), group policy management, Azure AD support, and enhanced update control—ideal for professional and enterprise use"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1004642278",
+            "url": "https://www.target.com/p/hp-essential-17t-cn300-laptop-17-3-hd-touch-i7-1355u-64gb-ram-2tb-ssd-iris-xe-graphics-wi-fi-6-windows-11-home-silver/-/A-1004642278",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_2875778e-fd67-47cf-9401-273853872b75",
+            "name": "HP Essential 17t-cn300 Laptop – 17.3\" HD+ Touch, i7-1355U, 64GB RAM, 2TB SSD, Iris Xe Graphics, Wi-Fi 6, Windows 11 Home, Silver",
+            "brand": "HP Inc.",
+            "price": 1,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 0.0,
+            "total_ratings": 0,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_2875778e-fd67-47cf-9401-273853872b75",
+                "https://target.scene7.com/is/image/Target/GUEST_7f1f7a3b-95a2-42a2-945f-158c45bdfec8",
+                "https://target.scene7.com/is/image/Target/GUEST_74e52787-c30a-4c00-baed-c364348abf1e",
+                "https://target.scene7.com/is/image/Target/GUEST_15149e17-7bf9-466d-9d93-582283255184"
+            ],
+            "features": [
+                "[High Speed RAM And Enormous Space] 64GB high-bandwidth DDR4 RAM to smoothly run multiple applications and browser tabs all at once; 2TB PCIe NVMe M.2 Solid State Drive allows to fast bootup and data transfer",
+                "[Processor] 13th Gen Intel Core i7-1355U Processor (10 Cores, 12 Threads, 1.2 GHz Base Frequency, Up to 5.0 GHz Max Turbo Frequency), with Intel Iris Xe Graphics",
+                "[Display] 17.3\" diagonal, HD+ (1600 x 900), Touch, BrightView, 250 nits, 60% NTSC",
+                "[Tech Specs] 1 x SuperSpeed USB Type-C, 2 x SuperSpeed USB Type-A, 1 x HDMI 1.4b, 1 x AC Smart Pin, 1 x Headphone/Microphone combo; Fingerprint Reader; Wi-Fi 6 + Bluetooth 5"
+            ],
+            "videos": [
+                "https://target.scene7.com/is/content/Target/GUEST_f27b36d7-6961-47b6-8f14-a13f156cdac0"
+            ]
+        },
+        {
+            "id": "1004641694",
+            "url": "https://www.target.com/p/hp-essential-17-cn3103nr-laptop-17-3-hd-touch-i3-n305-32gb-ram-128gb-1tb-uhd-graphics-wi-fi-6-windows-11-pro-silver/-/A-1004641694",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_f64e8013-653b-4a6e-aa88-1cc5589ab2bc",
+            "name": "HP Essential 17 Laptop – 17.3\" HD+ Touch, i3-N305, 32GB RAM, 128GB + 1TB, UHD Graphics, Wi-Fi 6, Windows 11 Pro, Silver",
+            "brand": "HP Inc.",
+            "price": 689.0,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 4.0,
+            "total_ratings": 1,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_f64e8013-653b-4a6e-aa88-1cc5589ab2bc",
+                "https://target.scene7.com/is/image/Target/GUEST_a0a54632-c55d-44ce-91b3-eb6c1dc70460",
+                "https://target.scene7.com/is/image/Target/GUEST_67d539a5-a0ec-4c11-b79e-ed6f8eb8b272",
+                "https://target.scene7.com/is/image/Target/GUEST_eafd2fbf-8851-4310-ade5-8ac6da1b77d1",
+                "https://target.scene7.com/is/image/Target/GUEST_406f64d1-31ce-40f6-b677-e94cfffba869",
+                "https://target.scene7.com/is/image/Target/GUEST_f798b0f5-9ebc-4ee4-96b0-59888520131d",
+                "https://target.scene7.com/is/image/Target/GUEST_2e232224-acc3-4171-a6ae-7b0e6a249d7c"
+            ],
+            "features": [
+                "[High Speed RAM And Enormous Space] 32GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; 128GB eMMC + 1TB PCIe NVMe M.2 Solid State Drive allows to fast bootup and data transfer",
+                "[Processor] Intel Core i3-N305 Processor (8 Cores, 8 Threads, 6MB L3 Cache, Base Frequency at 0.8 GHz, Up to 3.8 GHz at Max Turbo Frequency)",
+                "[Display] 17.3\" Touchscreen, HD+ (1600 x 900), BrightView, 250 nits",
+                "[Tech Specs] 2 x Superspeed USB Type-A , 1 x Superspeed USB Type-C, 1 x HDMI, 1 x Headphone/Microphone Combo, Webcam, Numeric keypad, Wi-Fi 6 and Bluetooth",
+                "[Operating System] Windows 11 Pro - Organize open apps with pre-configured layouts to optimize productivity, Navigate with more intuitive experience to get things done, Collaborate with teams with more features"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1003474299",
+            "url": "https://www.target.com/p/hp-chromebook-14-hd-laptop-intel-celeron-n4500-4gb-ram-64gb-emmc-chrome-os/-/A-1003474299",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_990e1cf5-975e-4e2e-8564-eed5cbc49c8f",
+            "name": "HP Chromebook 14” HD Laptop, Intel Celeron N4500, 4GB RAM, 64GB eMMC, Chrome OS",
+            "brand": "HP Inc.",
+            "price": 199.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 4.67,
+            "total_ratings": 3,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_990e1cf5-975e-4e2e-8564-eed5cbc49c8f",
+                "https://target.scene7.com/is/image/Target/GUEST_4c08efc9-3083-4a8f-937a-b4049022d41a",
+                "https://target.scene7.com/is/image/Target/GUEST_63befcb2-5884-479e-85b6-788b1c0792bb",
+                "https://target.scene7.com/is/image/Target/GUEST_71c933cb-e140-46be-b4a2-3355ac46ed12",
+                "https://target.scene7.com/is/image/Target/GUEST_61446a81-d50e-441b-a5e8-3e6b865e94ef",
+                "https://target.scene7.com/is/image/Target/GUEST_22c7183c-915f-4c03-b411-16c71a5d11fe",
+                "https://target.scene7.com/is/image/Target/GUEST_3a31ea23-c1b1-4265-b227-2439fcc3a93a"
+            ],
+            "features": [
+                "Intel Celeron N4500, 2-Core, 1.10 GHz up to 2.80 GHz, 4 MB Cache",
+                "4GB LPDDR4X-2933 MHz RAM, 64GB eMMC",
+                "14” HD (1366 x 768) micro-edge, anti-glare, 250 nits, LED Display",
+                "Ports: 2x USB Type-A, 1x USB Type-C, 1x HDMI, 1x Headphone/Microphone combo jack",
+                "HP True Vision 720p HD camera with integrated dual array digital microphones"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1004309755",
+            "url": "https://www.target.com/p/hp-14-hd-laptop-intel-processor-n150-4gb-ram-128gb-ufs-windows-11-home-in-s-mode-willow-green/-/A-1004309755",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_094bfc8b-6c9b-4a99-8514-c6b349cc0fa2",
+            "name": "HP 14” HD Laptop, Intel Processor N150, 4GB RAM, 128GB UFS, Windows 11 Home in S Mode, Willow Green",
+            "brand": "HP Inc.",
+            "price": 219.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 3.0,
+            "total_ratings": 2,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_094bfc8b-6c9b-4a99-8514-c6b349cc0fa2",
+                "https://target.scene7.com/is/image/Target/GUEST_c59e5369-2118-4cb8-9ae4-53c45b9edd91",
+                "https://target.scene7.com/is/image/Target/GUEST_9c50d136-df42-4f5a-bee3-8d5256f4be84",
+                "https://target.scene7.com/is/image/Target/GUEST_74faaaf8-e606-443e-a264-b4911c4341be",
+                "https://target.scene7.com/is/image/Target/GUEST_f786be69-3d68-494c-8ec8-085496fb6abb",
+                "https://target.scene7.com/is/image/Target/GUEST_c349d392-9390-4e00-9de0-821b207504c7",
+                "https://target.scene7.com/is/image/Target/GUEST_ede41ae0-4bd3-4cdf-b249-f1c4f7778910"
+            ],
+            "features": [
+                "Intel Processor N150, 4-Core, up to 3.60 GHz, 6 MB Cache",
+                "4GB DDR4-3200 MHz RAM, 128GB UFS",
+                "14” HD (1366 x 768) 250 nits, micro-edge, Anti-glare, LED Display",
+                "Ports: 2x USB Type-A, 1x USB Type-C, 1x HDMI, 1x Headphone/Microphone combo jack, 1x SD card reader",
+                "720p camera"
+            ],
+            "videos": []
+        },
+        {
+            "id": "92584192",
+            "url": "https://www.target.com/p/lenovo-ip-slim-3-14m868-14-laptop-arm-kompanio-520-4gb-ram-64gb-emmc-chrome-os-manufacturer-refurbished/-/A-92584192",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_b73f50df-a2a4-46c8-a3ef-ff7ca97502ea",
+            "name": "Refurbished: Lenovo IP Slim 3 14M868 14\" 2023 Laptop  Kompanio 520 4GB RAM 64GB eMMC ChromeOS - Manufacturer Refurbished",
+            "brand": "Lenovo",
+            "price": 139.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 3.77,
+            "total_ratings": 17,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_b73f50df-a2a4-46c8-a3ef-ff7ca97502ea",
+                "https://target.scene7.com/is/image/Target/GUEST_8ae24501-07d4-40c7-bdac-ecf5fe7e656d",
+                "https://target.scene7.com/is/image/Target/GUEST_a14f7e8f-3096-4982-bf59-33d573669043",
+                "https://target.scene7.com/is/image/Target/GUEST_4cea4087-5ca7-4609-b2d5-5dbc0ea976b0"
+            ],
+            "features": [
+                "This unit is manufacturer refurbished unit and shows little or no signs of wear",
+                "MediaTek Kompanio 520 (8C, 2x A76 @2.05GHz + 6x A55 @2.0GHz), Integrated ARM Mali-G52 2EE MC2 GPU",
+                "4GB Soldered LPDDR4x-3733 and 64GB eMMC 5.1 on systemboard",
+                "14\" FHD (1920x1080) TN 250nits Anti-glare, 45% NTSC",
+                "(1) USB 3.2 Gen 1, (1) USB-C 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort 1.1a), (1) Headphone / microphone combo jack (3.5mm), (1) microSD card reader",
+                "Abyss Blue Color, ChromeOS Operating System, Wi-Fi 6 802.11ax 2x2 + Bluetooth 5.3"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1006923954",
+            "url": "https://www.target.com/p/hp-essential-17-cn3403nr-laptop-17-3-hd-touch-i3-n305-uhd-graphics-32gb-ram-128gb-emmc-1tb-ssd-wi-fi-6-win-11-pro-silver/-/A-1006923954",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_6734c952-58de-477e-a355-c7ef1fafb05a",
+            "name": "HP Essential 17-cn3403nr Laptop, 17.3\" HD+ Touch, i3-N305, UHD Graphics, 32GB RAM, 128GB eMMC + 1TB SSD, Wi-Fi 6, Win 11 Pro, Silver",
+            "brand": "HP Inc.",
+            "price": 659.0,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 0.0,
+            "total_ratings": 0,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_6734c952-58de-477e-a355-c7ef1fafb05a"
+            ],
+            "features": [],
+            "videos": []
+        },
+        {
+            "id": "1006209783",
+            "url": "https://www.target.com/p/hp-essential-255-g10-15-6-fhd-laptop-ryzen-5-7530u-radeon-graphics-16gb-ddr4-1tb-ssd-wi-fi-6-windows-11-pro-silver/-/A-1006209783",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_ebf37c02-3455-4a0e-9ed8-3bb7caac1dfb",
+            "name": "HP Essential 255 G10 15.6\" FHD Laptop, Ryzen 5 7530U, Radeon Graphics, 16GB DDR4, 1TB SSD, Wi-Fi 6, Windows 11 Pro, Silver",
+            "brand": "HP Inc.",
+            "price": 479.0,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 1.0,
+            "total_ratings": 1,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_ebf37c02-3455-4a0e-9ed8-3bb7caac1dfb",
+                "https://target.scene7.com/is/image/Target/GUEST_f3894f52-e8a3-4a53-b7c2-9257a2312716",
+                "https://target.scene7.com/is/image/Target/GUEST_b527ebfb-0e9b-4627-9bfa-88cb007575c3",
+                "https://target.scene7.com/is/image/Target/GUEST_ccf0c175-a991-40bd-8a18-ce8081ff903e",
+                "https://target.scene7.com/is/image/Target/GUEST_640b914e-5c43-4118-b631-e2518bf79285",
+                "https://target.scene7.com/is/image/Target/GUEST_15178d11-58ec-4fd4-84c9-80e246a1d493"
+            ],
+            "features": [
+                "[Massive RAM and Ultra-Fast Storage] 16GB of high-bandwidth DDR4 RAM for smooth, lag-free performance while running multiple applications and browser tabs simultaneously. Coupled with a 1TB PCIe NVMe M.2 SSD for lightning-fast boot times and data transfer speeds",
+                "[Powerful Processing] AMD Ryzen 5 7530U Processor (6 Cores, 12 Threadss, 16 MB L3 Cache, Base Frequency at 2.0 GHz, Up to 4.5 GHz at Max Turbo Frequency), integrated with AMD Radeon Graphics for superior multitasking and working high-performance graphics",
+                "[Immersive Display] 15.6\" diagonal, FHD (1920 x 1080), Micro-edge, Anti-glare, 250 nits Brightness, 45% NTSC, 60Hz",
+                "[Comprehensive Connectivity Options] Includes 1 x USB Type-C(5Gbps), 2 x USB Type-A(5Gbps), 1 x HDMI, 1 x Headphone/Microphone combo, 720p HD Camera, Numeric Keypad, Wi-Fi 6 and Bluetooth for versatile and high-speed connections to various devices and networks",
+                "[Windows 11 for Enhanced Productivity] Windows 11 Pro - Built for business with advanced security (BitLocker, WIP), remote desktop access, virtualization (Hyper-V), group policy management, Azure AD support, and enhanced update control—ideal for professional and enterprise use"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1006298107",
+            "url": "https://www.target.com/p/hp-omen-slim-16-fhd-144hz-gaming-laptop-intel-ultra-7-255h-rtx-5060-64gb-ddr5-1tb-ssd-wi-fi-6-windows-11-home-black/-/A-1006298107",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_396bc124-b84c-45b7-b76a-8aa2d4eaf641",
+            "name": "HP Omen Slim 16\" FHD+ 144Hz Gaming Laptop, Intel Ultra 7 255H, RTX 5060, 64GB DDR5, 1TB SSD, Wi-Fi 6, Windows 11 Home, Black",
+            "brand": "HP Inc.",
+            "price": 1,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 0.0,
+            "total_ratings": 0,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_396bc124-b84c-45b7-b76a-8aa2d4eaf641",
+                "https://target.scene7.com/is/image/Target/GUEST_34581a9b-3fa4-4c6e-8f7a-d63c0742bd44",
+                "https://target.scene7.com/is/image/Target/GUEST_f5ee30b3-3576-4638-8601-b599cbef87ab",
+                "https://target.scene7.com/is/image/Target/GUEST_b397ee6e-d216-4f90-b3c6-cf1009024d5e",
+                "https://target.scene7.com/is/image/Target/GUEST_55c0f3cd-4805-4d44-a59e-082355d07685"
+            ],
+            "features": [
+                "【High Speed RAM And Enormous Space】64GB DDR5 high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; 1TB PCIe NVMe M.2 Solid State Drive allows to fast bootup and data transfer",
+                "【Processor】Intel Core Ultra 7 255H (16 Cores, 16 Threads, 24MB L3 Cache, Base Frequency at 1.5GHz, Up to 5.1GHz at Max Turbo Frequency), with NVIDIA GeForce RTX 5060 Graphics (8GB GDDR7)",
+                "【Display】16\" diagonal, FHD+ (1920 x 1200), 144 Hz, IPS, micro-edge, anti-glare",
+                "【Tech Specs】3 x Superspeed USB Type-A, 1 x Superspeed USB Type-C, 1 x HDMI, 1 x RJ-45, 1 x Headphone/Microphone Combo; RGB Backlit Keyboard (Fn+F4); Numeric Keypad; Wi-Fi 6 & Bluetooth",
+                "【Operating System】Windows 11 Home - Beautiful, more consistent new design, Great window layout options, Improved performance features, New videogame selection and capabilities, Compatible with Android Apps"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1003488064",
+            "url": "https://www.target.com/p/hp-14-hd-laptop-intel-processor-n150-4gb-ram-128gb-ufs-windows-11-home-in-s-mode/-/A-1003488064",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_6ff42e25-93b5-41ae-a6c7-0b3dade53d41",
+            "name": "HP 14” HD Laptop, Intel Processor N150, 4GB RAM, 128GB UFS, Windows 11 Home in S Mode, Natural Silver",
+            "brand": "HP Inc.",
+            "price": 229.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 5.0,
+            "total_ratings": 3,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_6ff42e25-93b5-41ae-a6c7-0b3dade53d41",
+                "https://target.scene7.com/is/image/Target/GUEST_a3c2e13d-2065-46b8-a3e5-aad0828d73b9",
+                "https://target.scene7.com/is/image/Target/GUEST_a1978b11-da4b-4151-8cec-c1bdfa20d000",
+                "https://target.scene7.com/is/image/Target/GUEST_34b8e23c-19d4-47bd-8145-5714134b0bc7",
+                "https://target.scene7.com/is/image/Target/GUEST_4fe0aab4-4752-4da3-80a7-ee117ff92f62",
+                "https://target.scene7.com/is/image/Target/GUEST_b79a47a2-4e99-4f11-9188-056c4b99e378",
+                "https://target.scene7.com/is/image/Target/GUEST_2a696a2c-1ac2-4938-afaf-cc728c0a4e39"
+            ],
+            "features": [
+                "Intel Processor N150, 4-Core, up to 3.60 GHz, 6 MB Cache",
+                "4GB DDR4-3200 MHz RAM, 128GB UFS",
+                "14” HD (1366 x 768) micro-edge, anti-glare, 250 nits, LED Display",
+                "Ports: 2x USB Type-A, 1x USB Type-C, 1x HDMI, 1x Headphone/Microphone combo jack, 1x SD card reader",
+                "HP True Vision 720p HD camera with temporal noise reduction and integrated dual array digital microphones"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1001846614",
+            "url": "https://www.target.com/p/lenovo-v15-g4-15-6-fhd-laptop-intel-core-i7-13620h-16gb-ram-512gb-ssd-windows-11-home-black-83cc002eus/-/A-1001846614",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_8d1a6e9c-3560-429a-99a4-dc0283696789",
+            "name": "Lenovo V15 G4 15.6\" FHD Laptop, Intel Core i7-13620H, 16GB RAM, 512GB SSD, Windows 11 Home, Black (83CC002EUS)",
+            "brand": "Lenovo",
+            "price": 579.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 4.0,
+            "total_ratings": 2,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_8d1a6e9c-3560-429a-99a4-dc0283696789",
+                "https://target.scene7.com/is/image/Target/GUEST_55f55857-ed8d-42a9-893b-8cadcf4b77f0",
+                "https://target.scene7.com/is/image/Target/GUEST_2cabf55d-cf5e-4401-9185-d7f690bf5742",
+                "https://target.scene7.com/is/image/Target/GUEST_2336e1a9-d0b1-4f51-9a07-a1de77104c99",
+                "https://target.scene7.com/is/image/Target/GUEST_644da859-da13-44df-a129-7a499b6b910e",
+                "https://target.scene7.com/is/image/Target/GUEST_76ebc707-f119-4922-b9ad-7f65b9acd00d",
+                "https://target.scene7.com/is/image/Target/GUEST_6f7c15ee-d680-485b-9ada-a67c180f5009",
+                "https://target.scene7.com/is/image/Target/GUEST_d8f28f64-9295-4076-940c-bc833ecdc2a6",
+                "https://target.scene7.com/is/image/Target/GUEST_d9d4419c-a0a5-496a-bfb8-63d691ccf4e3",
+                "https://target.scene7.com/is/image/Target/GUEST_c7aa42ac-62fb-4ec8-b922-ce115f22cc3d"
+            ],
+            "features": [
+                "15.6\" FHD Display",
+                "Intel Core i7-13620H 2.4 - 4.9GHz Processor",
+                "16GB RAM",
+                "512GB SSD",
+                "Windows 11 Home",
+                "Spill-resistant keypad",
+                "Camera privacy shutter",
+                "HDMI, LAN",
+                "Wi-Fi 6, Bluetooth 5.2"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1003827080",
+            "url": "https://www.target.com/p/hp-chromebook-15-6-hd-laptop-intel-processor-n200-8gb-ram-64gb-emmc-chrome-os/-/A-1003827080",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_19f886b6-c69d-487e-916d-b10d0fa85bf8",
+            "name": "HP Chromebook 15.6” HD Laptop, Intel Processor N200, 8GB RAM, 64GB eMMC, Chrome OS",
+            "brand": "HP Inc.",
+            "price": 259.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 3.4,
+            "total_ratings": 5,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_19f886b6-c69d-487e-916d-b10d0fa85bf8",
+                "https://target.scene7.com/is/image/Target/GUEST_b76234fb-573c-4c41-b3da-c17be75347ee",
+                "https://target.scene7.com/is/image/Target/GUEST_4d859625-29c3-40aa-8834-9869022488f0",
+                "https://target.scene7.com/is/image/Target/GUEST_7ac537d4-3dde-4ced-9d51-8021fa14840a",
+                "https://target.scene7.com/is/image/Target/GUEST_26450552-a5a4-4795-b82d-f412b3e87225"
+            ],
+            "features": [
+                "Intel Processor N200, 4-Core, 1.10 GHz up to 3.70 GHz, 6 MB Cache",
+                "8GB LPDDR5-4800 MHz RAM, 64GB eMMC",
+                "15.6” HD (1366 x 768) 250 nits, micro-edge, anti-glare, LED Display",
+                "Ports: 2x USB Type-C, 1x USB Type-A, 1x Headphone/Microphone combo jack, 1x microSD card reader",
+                "720p camera with privacy shutter"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1000496503",
+            "url": "https://www.target.com/p/acer-chromebook-311-11-6-hd-laptop-intel-celeron-n4500-4gb-ram-64gb-emmc-chrome-os/-/A-1000496503",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_97863bd7-e18b-4c99-a6f9-f51dbcb567e5",
+            "name": "Acer Chromebook 311 11.6” HD Laptop, Intel Celeron N4500, 4GB RAM, 64GB eMMC, Chrome OS",
+            "brand": "Acer",
+            "price": 169.0,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 5.0,
+            "total_ratings": 1,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_97863bd7-e18b-4c99-a6f9-f51dbcb567e5",
+                "https://target.scene7.com/is/image/Target/GUEST_8494cc0f-01cf-4562-be1b-887cbeedec67",
+                "https://target.scene7.com/is/image/Target/GUEST_4bc154f2-5d0c-4f47-a34a-fde8fcbbc510",
+                "https://target.scene7.com/is/image/Target/GUEST_a824bf14-da0c-4866-ad3a-3d137a42e1a8",
+                "https://target.scene7.com/is/image/Target/GUEST_9fbbeeee-1cf0-42b6-a5f5-42d33f2cd37e",
+                "https://target.scene7.com/is/image/Target/GUEST_a834f541-ed19-4b59-b800-6d0f86024d42",
+                "https://target.scene7.com/is/image/Target/GUEST_0d276505-d00e-449c-877c-9eddf2e01ac2"
+            ],
+            "features": [
+                "Intel Celeron N4500, 2-Cores, 1.10 GHz up to 2.80 GHz, 4 MB Cache",
+                "4GB LPDDR4X RAM, 64GB eMMC",
+                "11.6” HD (1366 x 768) Display",
+                "Ports: 1x USB Type-A, 1x USB Type-C, 1x Headphone Jack",
+                "Webcam"
+            ],
+            "videos": []
+        },
+        {
+            "id": "92469343",
+            "url": "https://www.target.com/p/hp-inc-essential-laptop-computer-17-3-hd-intel-core-8-gb-memory-256-gb-ssd/-/A-92469343",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_d716f979-2a16-460b-89fb-9e00c825e17f",
+            "name": "HP Essential Laptop Computer 17.3\" HD+ Intel Core 8 GB memory; 256 GB SSD",
+            "brand": "HP Inc.",
+            "price": 369.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 4.28,
+            "total_ratings": 11,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_d716f979-2a16-460b-89fb-9e00c825e17f",
+                "https://target.scene7.com/is/image/Target/GUEST_f59daa67-18c4-4a67-ade7-2a1a13cad99f",
+                "https://target.scene7.com/is/image/Target/GUEST_f4428da7-624c-4695-98fc-196ef0847415",
+                "https://target.scene7.com/is/image/Target/GUEST_cce8e6d1-a364-4fea-bf43-59a5a09097e9",
+                "https://target.scene7.com/is/image/Target/GUEST_c71c2c42-f28e-4ab1-ace1-30adc564d912",
+                "https://target.scene7.com/is/image/Target/GUEST_5ded7e1e-c96c-48ca-8e37-51e6394ad35e"
+            ],
+            "features": [
+                "Intel® Core™ 3 100U (up to 4.7 GHz with Intel® Turbo Boost Technology, 10 MB L3 cache, 6 cores, 8 threads)",
+                "Integrated ;Intel® Graphics",
+                "8 GB DDR4-3200 MT/s (1 x 8 GB)",
+                "17.3\" diagonal, HD+ (1600 x 900), anti-glare, 250 nits, 60% NTSC"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1007158188",
+            "url": "https://www.target.com/p/refurbished-hp-elite-dragonfly-13-3-fhd-laptop-core-i7-16gb-512gb-windows-11-pro-manufacturer-refurbished/-/A-1007158188",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_d11d635d-b8ff-442b-8294-700c17e8691a",
+            "name": "Refurbished: HP Elite Dragonfly 13.3\" FHD Laptop, Core i7, 16GB ,512GB, Windows 11 Pro - Manufacturer Refurbished",
+            "brand": "HP Inc.",
+            "price": 349.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 0.0,
+            "total_ratings": 0,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_d11d635d-b8ff-442b-8294-700c17e8691a",
+                "https://target.scene7.com/is/image/Target/GUEST_f6005d30-63e3-40f8-baa6-946c2a598e56",
+                "https://target.scene7.com/is/image/Target/GUEST_fe090744-ceac-4037-bee5-f062ade67c45",
+                "https://target.scene7.com/is/image/Target/GUEST_b019361c-01be-4425-a3ab-3f20985d2a35",
+                "https://target.scene7.com/is/image/Target/GUEST_63a3add5-764d-425b-bfda-6650b8104cab"
+            ],
+            "features": [
+                "Processor: Quad-Core 8th Generation Intel Core i7 processor (i7-8565U), Graphics: Intel Core i7-8565U with Intel UHD Graphics 620 (1.8 GHz base frequency, up to 4.6 GHz with Intel Turbo Boost Technology, 8 MB L3 cache, 4 cores)",
+                "Display: 13.3\" diagonal FHD IPS eDP + PSR BrightView WLED-backlit ultraslim direct bonded touch screen with Corning Gorilla Glass 5, 400 nits, 72% NTSC (1920 x 1080)",
+                "Memory: 16 GB LPDDR3-2133 SDRAM, Storage: 512 GB Intel PCIe NVMe QLC M.2 SSD",
+                "two Thunderbolt 3 (USB-C) ports, one USB 3.1 Gen 1 Type-A port, one full-size HDMI 1.4 port, and a 3.5mm headphone/microphone combo jack",
+                "Operating System: Windows 11 Pro-64"
+            ],
+            "videos": []
+        },
+        {
+            "id": "91557673",
+            "url": "https://www.target.com/p/lenovo-ideapad-1i-laptop-15-6-fhd-display-intel-celeron-n4500-intel-uhd-graphics-4gb-ram-128gb-emmc-wi-fi-6-windows-11-home-grey/-/A-91557673",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_a4e39b4a-7c2d-4825-8b53-23fa784f8be0",
+            "name": "Lenovo IdeaPad 1i Laptop, 15.6\" FHD Display, Intel Celeron N4500, Intel UHD Graphics, 4GB RAM, 128GB eMMC, Wi-Fi 6, Windows 11 Home, Grey",
+            "brand": "Lenovo",
+            "price": 278.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 4.14,
+            "total_ratings": 30,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_a4e39b4a-7c2d-4825-8b53-23fa784f8be0",
+                "https://target.scene7.com/is/image/Target/GUEST_b36ea642-d00b-480c-864e-8d89cf6fb66e",
+                "https://target.scene7.com/is/image/Target/GUEST_7fa7e32d-0f7e-49c2-b6a3-ac9069e898a7",
+                "https://target.scene7.com/is/image/Target/GUEST_3c8d4158-1482-4a73-aac7-06e76c392255",
+                "https://target.scene7.com/is/image/Target/GUEST_e31f549d-a2e1-4a4d-bd51-b97e538ccd94",
+                "https://target.scene7.com/is/image/Target/GUEST_b2aea068-1729-4a40-8185-fbfb41d44a4e",
+                "https://target.scene7.com/is/image/Target/GUEST_b73ca0e0-f700-4585-a571-99e5cfe8081c"
+            ],
+            "features": [
+                "15.6\" FHD (1920x1080), 250nits, IPS Anti-glare Non-touch Display",
+                "Intel Celeron N4500 Processor (Cores:2, Threads:2; Clockspeed:1.1 GHz Turbo Speed: 2.8GHz; Cache Size: 4MB Intel Smart Cache)",
+                "4GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; 1128GB eMMC allows to fast bootup and data transfer",
+                "1 x Card reader; 1 x HDMI 1.4b; 1 x USB-A 2.0; 1 x USB-C 3.2 Gen 1 (support data transfer only); 1 x USB-A 3.2 Gen 1; 1 x Headphone / microphone combo jack (3.5mm)",
+                "Windows 11 Home S Mode with 1-Year Office 365"
+            ],
+            "videos": [
+                "https://target.scene7.com/is/content/Target/GUEST_83398d62-65b2-40cc-9944-37f71a4d22a4"
+            ]
+        },
+        {
+            "id": "1000482833",
+            "url": "https://www.target.com/p/lenovo-ideapad-3i-chromebook-15-6-full-hd-laptop-intel-celeron-n4500-4gb-ram-64gb-emmc-chrome-os/-/A-1000482833",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_7605a73d-920c-4ea1-9a5c-0b206caa0acf",
+            "name": "Lenovo IdeaPad 3i Chromebook 15.6” Full HD Laptop, Intel Celeron N4500, 4GB RAM, 64GB eMMC, Chrome OS, Artic Grey",
+            "brand": "Lenovo",
+            "price": 184.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 4.42,
+            "total_ratings": 99,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_7605a73d-920c-4ea1-9a5c-0b206caa0acf",
+                "https://target.scene7.com/is/image/Target/GUEST_a67dce79-b84b-4cb2-bb48-76ef506b4cf9",
+                "https://target.scene7.com/is/image/Target/GUEST_cc3bb50f-c669-4491-8807-df10fc428938",
+                "https://target.scene7.com/is/image/Target/GUEST_a22a13c7-03d0-4957-ad8a-9f1a6b3d5d78",
+                "https://target.scene7.com/is/image/Target/GUEST_00cede71-037c-476c-9846-d2c9fd5633ba",
+                "https://target.scene7.com/is/image/Target/GUEST_beb1c26a-82db-4bd9-9f50-5a7a2bbae09e",
+                "https://target.scene7.com/is/image/Target/GUEST_507ec7d8-06b9-41df-92a3-631c820120b5"
+            ],
+            "features": [
+                "Intel Celeron N4500, 2-Cores, 1.10 GHz up to 2.80 GHz, 4 MB Cache",
+                "4GB LPDDR4X-2933 MHz RAM, 64GB eMMC",
+                "15.6” Full HD (1920 x 1080) 220 nits Display",
+                "Ports: 2x USB 3.2 Type-A, 1x USB Type-C, 1x HDMI, 1x microSD card reader, 1x Headphone Jack",
+                "720p camera with privacy shutter"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1003687528",
+            "url": "https://www.target.com/p/acer-chromebook-315-15-6-full-hd-laptop-intel-celeron-n4500-4gb-ram-64gb-emmc-chrome-os-protective-sleeve-included/-/A-1003687528",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_6a8d7c71-87fa-41fb-9f65-057962db0674",
+            "name": "Acer Chromebook 315 15.6\" Full HD Laptop, Intel Celeron N4500, 4GB RAM, 64GB eMMC, Chrome OS - Protective Sleeve included",
+            "brand": "Acer",
+            "price": 209.0,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 1.0,
+            "total_ratings": 1,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_6a8d7c71-87fa-41fb-9f65-057962db0674",
+                "https://target.scene7.com/is/image/Target/GUEST_085b5c6f-9bde-4e73-8761-2fc0de88c050",
+                "https://target.scene7.com/is/image/Target/GUEST_4ad245f4-d67f-4e7c-b697-8e96330feb1e",
+                "https://target.scene7.com/is/image/Target/GUEST_cc121e44-bf7d-42a5-a976-111b3b886c2a",
+                "https://target.scene7.com/is/image/Target/GUEST_20e5ada9-c033-4af5-a057-63f28220c5b4",
+                "https://target.scene7.com/is/image/Target/GUEST_eb4d994e-5471-4239-8984-1a717e5bf764",
+                "https://target.scene7.com/is/image/Target/GUEST_2b35e590-21cf-4108-9b63-1ed2cfc49d15"
+            ],
+            "features": [
+                "Intel Celeron N4500, 2-Core, 1.10 GHz up to 2.80 GHz, 4 MB Cache",
+                "4GB LPDDR4x RAM, 64GB eMMC",
+                "15.6” Full HD (1920 x 1080) anti-glare Display",
+                "Ports: 2x USB 3.2 Gen 1 Type-A, 2x USB Type-C, 1x Headphone/Microphone combo jack, 1x microSD card reader",
+                "720p camera"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1000016748",
+            "url": "https://www.target.com/p/acer-aspire-3-a315-24p-r2ag-notebook-manufacturer-refurbished/-/A-1000016748",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_89f875a9-0dfa-4308-b273-e3e6dce8fc6a",
+            "name": "Acer Aspire 3 - 15.6\" Notebook 8GB RAM 512GB SSD - A315-24P - Manufacturer Refurbished",
+            "brand": "Acer",
+            "price": 250.0,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 4.36,
+            "total_ratings": 25,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_89f875a9-0dfa-4308-b273-e3e6dce8fc6a",
+                "https://target.scene7.com/is/image/Target/GUEST_57a9eba2-d360-467d-8054-46a28ce1405c",
+                "https://target.scene7.com/is/image/Target/GUEST_b8ac1a65-a0ea-4010-920d-9824954843b8",
+                "https://target.scene7.com/is/image/Target/GUEST_869601fd-3cc6-415f-8b45-e4e4007f9abc",
+                "https://target.scene7.com/is/image/Target/GUEST_9a891237-60bb-4561-9e47-5a5b73d3cae2"
+            ],
+            "features": [
+                "With 8 GB memory, you can switch between various applications without issue",
+                "15.6\" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity",
+                "512 GB SSD is enough to store your essential documents and files, favorite songs, movies and pictures",
+                "13.50 Hours battery run time helps you stay unwired and work longer non-stop"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1004641289",
+            "url": "https://www.target.com/p/lenovo-ideapad-1-15ijl7-laptop-15-6-fhd-celeron-n4500-12gb-ram-128gb-512gb-uhd-graphics-wi-fi-6-windows-11-home-gray/-/A-1004641289",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_b36ea642-d00b-480c-864e-8d89cf6fb66e",
+            "name": "Lenovo IdeaPad 1 15IJL7 Laptop – 15.6\" FHD, Celeron N4500, 12GB RAM, 128GB + 512GB, UHD Graphics, Wi-Fi 6, Windows 11 Home, Gray",
+            "brand": "Lenovo",
+            "price": 348.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 4.0,
+            "total_ratings": 1,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_b36ea642-d00b-480c-864e-8d89cf6fb66e",
+                "https://target.scene7.com/is/image/Target/GUEST_7fa7e32d-0f7e-49c2-b6a3-ac9069e898a7",
+                "https://target.scene7.com/is/image/Target/GUEST_40279fa0-f7a7-4a6e-b9ff-462cd7b33ca2",
+                "https://target.scene7.com/is/image/Target/GUEST_a60a09b0-edf8-4683-80fc-456c44dc888e",
+                "https://target.scene7.com/is/image/Target/GUEST_65535c42-300b-4b64-bd1a-9b50ac49851f",
+                "https://target.scene7.com/is/image/Target/GUEST_da1e9320-fbbe-4ded-8cb2-dc4a4a7c0755"
+            ],
+            "features": [
+                "【High Speed RAM And Enormous Space】12GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; 512GB PCIe NVMe M.2 Solid State Drive + 128GB eMMC allows to fast bootup and data transfer",
+                "【Processor】Celeron N4500 (Cores:2 Threads:2; Clockspeed:1.1 GHz Turbo Speed: 2.8GHz; Cache Size: L1: 4096 KB, L2: 12.0 MB, L3: 4 MB)",
+                "【Display】15.6\" FHD (1920x1080), 250nits, IPS-Level, Anti-glare",
+                "【Tech Specs】 1 x Card reader; 1 x HDMI 1.4b; 1 x USB 2.0; 1 x USB-C 3.2 Gen 1 (support data transfer only); 1 x USB 3.2 Gen 1; 1 x Headphone / microphone combo jack (3.5mm);",
+                "【Operating System】Windows 11 Home - Beautiful, more consistent new design, Great window layout options, Better multi-monitor functionality, Improved performance features, New videogame selection and capabilities, Compatible with Android Apps"
+            ],
+            "videos": [
+                "https://target.scene7.com/is/content/Target/GUEST_0cc41989-80e2-4169-ad6b-0628ee4bdd7a"
+            ]
+        },
+        {
+            "id": "93206794",
+            "url": "https://www.target.com/p/acer-aspire-5-15-6-touchscreen-laptop-intel-i5-13420h-2-10ghz-8gb-512gb-w11h-manufacturer-refurbished/-/A-93206794",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_a9997742-93c4-4e30-b3c1-6506f23776d8",
+            "name": "Acer Aspire 5 - 15.6\" Touchscreen Laptop Intel i5-13420H 2.10GHz 8GB RAM 512GB SSD W11H - Manufacturer Refurbished",
+            "brand": "Acer",
+            "price": 311.1,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 3.38,
+            "total_ratings": 8,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_a9997742-93c4-4e30-b3c1-6506f23776d8",
+                "https://target.scene7.com/is/image/Target/GUEST_57034999-1cc7-483e-9271-4e86f9a65276",
+                "https://target.scene7.com/is/image/Target/GUEST_03a34a18-5237-4b28-9190-23e9a81a9e1e",
+                "https://target.scene7.com/is/image/Target/GUEST_1522a909-de5d-4a26-9f4a-d1f7c97380bc",
+                "https://target.scene7.com/is/image/Target/GUEST_1f402f68-979e-41f8-913a-ceea6c5dc4c9",
+                "https://target.scene7.com/is/image/Target/GUEST_490d97c3-5f3f-46fc-9de9-fe7f3d37db65",
+                "https://target.scene7.com/is/image/Target/GUEST_dc6a4787-75d9-4db8-8456-17dc4017b82f",
+                "https://target.scene7.com/is/image/Target/GUEST_d60f47d9-824f-4f23-bb59-de6e70bdb820"
+            ],
+            "features": [
+                "Powerful Intel Core i5-13420H processor with 2.10GHz speed, paired with Intel UHD Graphics, delivers reliable performance for everyday computing tasks, from document processing to web browsing and light multimedia tasks.",
+                "Immersive 15.6\" Full HD touchscreen display (1920 x 1080) with 60Hz refresh rate provides crisp visuals and intuitive touch navigation. The responsive touch interface enhances productivity and offers a more natural way to interact with your content.",
+                "Efficient multitasking with 8GB RAM and fast 512GB SSD storage ensures smooth operation and quick access to your files and applications. Experience rapid boot times and swift program launches while having plenty of space for your digital library.",
+                "Stay connected with integrated HD webcam and microphone for crystal-clear video calls and virtual meetings. The sleek Iron finish offers a professional aesthetic that stands out while maintaining a business-appropriate appearance.",
+                "Windows 11 Home provides an intuitive, touch-optimized interface with enhanced features for productivity, entertainment, and security. This professionally renewed laptop delivers premium features and reliable performance at an exceptional value."
+            ],
+            "videos": []
+        },
+        {
+            "id": "1004173781",
+            "url": "https://www.target.com/p/hp-14-hd-notebook-intel-pentium-silver-n6000-4gb-ram-64gb-emmc-natural-silver-intel-pentium-silver-n6000-quad-core/-/A-1004173781",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_be3d3109-a896-408c-8002-3715543b95eb",
+            "name": "HP 14\" HD Notebook Intel Pentium Silver N6000 4GB RAM 64GB eMMC Natural Silver - Intel Pentium Silver N6000 Quad-core",
+            "brand": "HP Inc.",
+            "price": 189.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 4.48,
+            "total_ratings": 76,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_be3d3109-a896-408c-8002-3715543b95eb",
+                "https://target.scene7.com/is/image/Target/GUEST_51a7bee8-e5e4-4599-bc67-d4489dc8711c",
+                "https://target.scene7.com/is/image/Target/GUEST_4515f3a0-82f3-442f-9710-b5b11383cac3",
+                "https://target.scene7.com/is/image/Target/GUEST_83d391a9-2e9f-4e70-820e-32aabda29e55",
+                "https://target.scene7.com/is/image/Target/GUEST_42d79d21-6eec-4ee2-bdf6-b056ec73fe94"
+            ],
+            "features": [
+                "Processor: Intel Pentium Silver 3.30 GHz N6000",
+                "Flash: 64 GB",
+                "Display: 14\" 1366 X 768",
+                "Graphics: Intel UHD Graphics"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1006899940",
+            "url": "https://www.target.com/p/hp-15-6-hd-laptop-intel-core-i3-n305-8gb-ram-128gb-ufs-windows-11-home-in-s-mode/-/A-1006899940",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_03f394ce-4779-41c4-bb11-1b77f863e4e9",
+            "name": "HP 15.6” HD Laptop, Intel Core i3-N305, 8GB RAM, 128GB UFS, Windows 11 Home in S Mode",
+            "brand": "HP Inc.",
+            "price": 319.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 0.0,
+            "total_ratings": 0,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_03f394ce-4779-41c4-bb11-1b77f863e4e9",
+                "https://target.scene7.com/is/image/Target/GUEST_83c75ab2-049b-462d-90a4-b14ac135b385",
+                "https://target.scene7.com/is/image/Target/GUEST_696d29fa-1f47-4eb1-96e8-ba4dbfd64adf",
+                "https://target.scene7.com/is/image/Target/GUEST_8fd76646-21a4-463e-9c46-bbd222705c9f",
+                "https://target.scene7.com/is/image/Target/GUEST_94f81a9c-98e2-42d0-8404-c885c17ae35e",
+                "https://target.scene7.com/is/image/Target/GUEST_e5a9a524-a18b-425c-9bb7-b25d5c462f20",
+                "https://target.scene7.com/is/image/Target/GUEST_59226fcb-1fda-4270-b63c-edefaa81d480"
+            ],
+            "features": [
+                "Intel Core i3-N305, 8-Core, 1.80 GHz up to 3.80 GHz, 6 MB Cache",
+                "8GB DDR4-3200 MHz RAM, 128GB UFS",
+                "15.6” HD (1366 x 768) 250 nits, 45% NTSC, Anti-glare, LED Display",
+                "Ports: 2x USB Type-A, 1x USB Type-C (data transfer only), 1x HDMI, 1x Headphone/Microphone combo jack",
+                "720p camera with privacy shutter"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1005313606",
+            "url": "https://www.target.com/p/lenovo-ideapad-1-15iau7-15-6-laptop-intel-core-i5-1235u-8gb-ram-256gb-ssd-w11h-scratch-dent/-/A-1005313606",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_4ff63cbf-3428-42e1-8789-f9bdab25cb0f",
+            "name": "Lenovo IdeaPad 1 15IAU7 15.6\" Laptop Intel Core i5-1235U 8GB Ram 256GB SSD W11H - Scratch & Dent",
+            "brand": "Lenovo",
+            "price": 301.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 0.0,
+            "total_ratings": 0,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_4ff63cbf-3428-42e1-8789-f9bdab25cb0f",
+                "https://target.scene7.com/is/image/Target/GUEST_48088e4a-42ec-4790-b587-43e9d5e51cb7",
+                "https://target.scene7.com/is/image/Target/GUEST_de0f6627-ab25-414b-8db8-c479f7f90da2",
+                "https://target.scene7.com/is/image/Target/GUEST_ee078056-60e9-4d3c-93b0-04a11b86f64a"
+            ],
+            "features": [
+                "This unit is in used condition and may show signs of wear such as scratches or dents",
+                "Intel Core i5-1235U, 10C (2P + 8E) / 12T, P-core 1.3 / 4.4GHz, E-core 0.9 / 3.3GHz, 12MB",
+                "Integrated Intel Iris Xe Graphics Functions as UHD Graphics",
+                "256GB SSD M.2 2242 PCIe 3.0x4 NVMe",
+                "8GB Soldered DDR4-3200",
+                "15.6\" FHD (1920x1080) TN 220nits Anti-glare"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1005677377",
+            "url": "https://www.target.com/p/asus-vivobook-go-laptop-15-6-fhd-display-intel-core-i3-n305-8gb-ram-128gb-ufs-windows-11-home-black-e1504gawb31/-/A-1005677377",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_4a0350f9-f57b-4bfd-b927-269763191643",
+            "name": "ASUS VivoBook Go Laptop, 15.6\" FHD Display, Intel Core i3-N305, 8GB RAM, 128GB UFS, Windows 11 Home, Black (E1504GAWB31)",
+            "brand": "ASUS",
+            "price": 299.0,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 4.62,
+            "total_ratings": 13,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_4a0350f9-f57b-4bfd-b927-269763191643",
+                "https://target.scene7.com/is/image/Target/GUEST_45b17598-681a-45ad-9cd3-4d5017a895c9",
+                "https://target.scene7.com/is/image/Target/GUEST_188a84c3-8900-4049-85f0-8749125bf68c",
+                "https://target.scene7.com/is/image/Target/GUEST_4b5ba454-7f38-4d6b-9035-99d908b5e5d4",
+                "https://target.scene7.com/is/image/Target/GUEST_e0b28e4d-6cd8-42ad-81f7-893cf87c054f",
+                "https://target.scene7.com/is/image/Target/GUEST_6aa0bc3e-7002-453d-8925-adb38fb82f3d",
+                "https://target.scene7.com/is/image/Target/GUEST_28fd851c-94f7-441f-b79b-4e430b777129"
+            ],
+            "features": [
+                "15.6\" FHD Display",
+                "Intel Core i3-N305 1.8 - 3.8GHz Processor",
+                "8GB RAM",
+                "128GB UFS Storage",
+                "Windows 11 Home",
+                "HD Webcam",
+                "Wi-Fi 5"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1005021743",
+            "url": "https://www.target.com/p/asus-vivobook-14-full-hd-laptop-intel-core-i7-1355u-12gb-ram-512gb-ssd-windows-11-home/-/A-1005021743",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_b61a8f37-6fc6-4671-8e21-5b33e0ed5823",
+            "name": "ASUS Vivobook 14” Full HD Laptop, Intel Core i7-1355U, 12GB RAM, 512GB SSD, Windows 11 Home",
+            "brand": "ASUS",
+            "price": 569.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 4.63,
+            "total_ratings": 8,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_b61a8f37-6fc6-4671-8e21-5b33e0ed5823",
+                "https://target.scene7.com/is/image/Target/GUEST_47ee657d-4142-45f7-920b-d182ad16ddad",
+                "https://target.scene7.com/is/image/Target/GUEST_b6c65c77-bbcd-4410-89df-131047bdc92b",
+                "https://target.scene7.com/is/image/Target/GUEST_b74d13f6-c60b-4667-89b5-da3f2f471fe2",
+                "https://target.scene7.com/is/image/Target/GUEST_5a88965f-f690-447e-b5b7-2371eceb605e",
+                "https://target.scene7.com/is/image/Target/GUEST_84349c47-1d3e-4767-a0be-1f2cda96ec83",
+                "https://target.scene7.com/is/image/Target/GUEST_ab494822-e848-45e7-847e-a7c5662c36ad"
+            ],
+            "features": [
+                "Intel Core i7-1355U, 10-Core, 1.70 GHz up to 5.00 GHz, 12 MB Cache",
+                "12GB DDR4-3200 MHz RAM, 512GB PCIe SSD",
+                "14” Full HD (1920 x 1080) 60Hz, 250 nits, Anti-glare, LED Display",
+                "Ports: 2x USB 3.2 Type-A, 1x USB 2.0 Type-A, 1x USB Type-C, 1x HDMI, 1x Headphone/Microphone combo",
+                "720p camera with privacy shutter"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1001398423",
+            "url": "https://www.target.com/p/lenovo-ideapad-5-15-6-1920x1080-fhd-intel-core-i7-1255u-8gb-ram-512gb-ram-storm-grey-intel-core-i7-1255u-deca-core/-/A-1001398423",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_58f57139-2de7-44d3-b992-4f432b0b93f5",
+            "name": "Lenovo IdeaPad 5 15.6\" 1920x1080 FHD Intel Core i7-1255U 8GB RAM 512GB RAM Storm Grey - Intel Core i7-1255U Deca-core",
+            "brand": "Lenovo",
+            "price": 489.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 4.54,
+            "total_ratings": 45,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_58f57139-2de7-44d3-b992-4f432b0b93f5",
+                "https://target.scene7.com/is/image/Target/GUEST_918ce6f1-2e53-459d-8317-282d0cf7a494",
+                "https://target.scene7.com/is/image/Target/GUEST_794807eb-7ab0-4c0e-9ccb-1a82c3667568",
+                "https://target.scene7.com/is/image/Target/GUEST_09317082-d350-4ce7-9b43-37eaeabac898",
+                "https://target.scene7.com/is/image/Target/GUEST_300b5290-2ffd-466b-99c9-6aeecc06ae10",
+                "https://target.scene7.com/is/image/Target/GUEST_f548c597-543d-4c45-8a0b-58c9d4f56818"
+            ],
+            "features": [
+                "Processor: Intel Core i7 1.70 GHz i7-1255U",
+                "SSD: 512 GB",
+                "Display: 15.6\" 1920 x 1080",
+                "Graphics: Intel Iris Xe Graphics"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1003920552",
+            "url": "https://www.target.com/p/hp-17-3-full-hd-laptop-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-windows-11-home/-/A-1003920552",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_3b314e41-895e-4fb7-a49e-57e271bcac06",
+            "name": "HP 17.3” Full HD Laptop, AMD Ryzen 5 7520U, 8GB RAM, 512GB SSD, Windows 11 Home",
+            "brand": "HP Inc.",
+            "price": 629.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 0.0,
+            "total_ratings": 0,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_3b314e41-895e-4fb7-a49e-57e271bcac06",
+                "https://target.scene7.com/is/image/Target/GUEST_c7532a3b-b0f5-44ef-bd2e-9f130bf1e3cb",
+                "https://target.scene7.com/is/image/Target/GUEST_9e81c8a6-e046-4c2c-82e6-4ed5ba7d67e4",
+                "https://target.scene7.com/is/image/Target/GUEST_459890d8-bbb3-47fb-a590-11e570f169e7",
+                "https://target.scene7.com/is/image/Target/GUEST_2c6a0c00-dc73-4e64-91ab-f74615bf2a38",
+                "https://target.scene7.com/is/image/Target/GUEST_4297976f-6a31-46d9-8575-4b311740fb59"
+            ],
+            "features": [
+                "AMD Ryzen 5 7520U, 4-Core, 2.80 GHz up to 4.30 GHz, 4 MB Cache",
+                "8GB LPDDR5-5500 MHz RAM, 512GB PCIe NVMe M.2 SSD",
+                "17.3” Full HD (1920 x 1080), IPS, anti-glare, 300 nits, LED Display",
+                "Ports: 2x USB Type-A, 1x USB Type-C (data transfer only), 1x HDMI, 1x Headphone/Microphone combo jack",
+                "720p camera with privacy shutter"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1004892821",
+            "url": "https://www.target.com/p/hp-14-hd-laptop-intel-processor-n150-4gb-ram-128gb-ufs-windows-11-home-in-s-mode-sky-blue/-/A-1004892821",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_d73b6f18-79b9-4006-b719-192a27827ee9",
+            "name": "HP 14” HD Laptop, Intel Processor N150, 4GB RAM, 128GB UFS, Windows 11 Home in S Mode, Sky Blue",
+            "brand": "HP Inc.",
+            "price": 229.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 0.0,
+            "total_ratings": 0,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_d73b6f18-79b9-4006-b719-192a27827ee9",
+                "https://target.scene7.com/is/image/Target/GUEST_95784b08-2d83-48c5-9002-8246d0bbdcc0",
+                "https://target.scene7.com/is/image/Target/GUEST_47a1fa64-a2f7-4c3f-8a2b-9ffea5f1adae",
+                "https://target.scene7.com/is/image/Target/GUEST_25077778-c1a7-4e2e-b0ea-a1bc2ad5be41",
+                "https://target.scene7.com/is/image/Target/GUEST_9e543dd4-b069-4feb-8377-0bf418e2df7a",
+                "https://target.scene7.com/is/image/Target/GUEST_64cd76d7-10eb-47c8-a085-e51071fb1cd6",
+                "https://target.scene7.com/is/image/Target/GUEST_20d90d74-a6b3-4a55-8c29-f80915cc08dc"
+            ],
+            "features": [
+                "Intel Processor N150, 4-Core, up to 3.60 GHz, 6 MB Cache",
+                "4GB DDR4-3200 MHz RAM, 128GB UFS",
+                "14” HD (1366 x 768) micro-edge, anti-glare, 250 nits, LED Display",
+                "Ports: 2x USB Type-A, 1x USB Type-C, 1x HDMI, 1x Headphone/Microphone combo jack, 1x SD card reader",
+                "HP True Vision 720p HD camera with temporal noise reduction and integrated dual array digital microphones"
+            ],
+            "videos": []
+        },
+        {
+            "id": "1002317758",
+            "url": "https://www.target.com/p/asus-vivobook-17-3-fhd-daily-laptop-intel-core-i3-intel-uhd-4gb-ram-128gb-ssd-hdmi-webcam-wi-fi-windows-11-home-blue/-/A-1002317758",
+            "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_12ec3792-6faf-4fca-bb26-05d8743ca7aa",
+            "name": "ASUS Vivobook 17.3” FHD Daily Laptop, Intel Core i3, Intel UHD, 4GB RAM, 128GB SSD, HDMI, Webcam, Wi-Fi, Windows 11 Home, Blue",
+            "brand": "ASUS",
+            "price": 399.99,
+            "currency": "USD",
+            "dpci": null,
+            "department_id": 56,
+            "rating": 4.0,
+            "total_ratings": 1,
+            "images": [
+                "https://target.scene7.com/is/image/Target/GUEST_12ec3792-6faf-4fca-bb26-05d8743ca7aa",
+                "https://target.scene7.com/is/image/Target/GUEST_01a6721d-61dd-48cc-b764-45ddde985091",
+                "https://target.scene7.com/is/image/Target/GUEST_c6d9ebff-d47f-4846-841f-5ea510ccb37d",
+                "https://target.scene7.com/is/image/Target/GUEST_5eee4aac-b2f3-4e58-b847-446860b493cf",
+                "https://target.scene7.com/is/image/Target/GUEST_0bc3b1fd-66a2-413e-aa8c-856b428c00d4",
+                "https://target.scene7.com/is/image/Target/GUEST_4fefe395-68e1-411b-803d-f5e259e6c055",
+                "https://target.scene7.com/is/image/Target/GUEST_af9f3354-fdb2-4640-a1c3-e9803f241f29",
+                "https://target.scene7.com/is/image/Target/GUEST_df4a0946-5175-4970-87f3-e70b601fab97"
+            ],
+            "features": [
+                "[Processor] Intel Core i3-1215U Processor (6 cores, 10M Cache, Base to 1.2 GHz, up to 4.4 GHz) integrated with Intel UHD Graphics for robust performance.",
+                "[Display] 17.3-inch, FHD (1920 x 1080), 16:9 aspect ratio, IPS-level Panel, 60Hz refresh rate, 250nits, 45% NTSC color gamut, Anti-glare display, Non-touch screen, 86% Screen-to-body ratio",
+                "[Tech Specs] 1 x USB 2.0 Type-A, 1 x USB 3.2 Gen 2 Type-C, 2 x USB 3.2 Gen 2 Type-A, 1 x HDMI, 1 x Headphone/Microphone combo, Webcam, Wi-Fi and Bluetooth",
+                "[Operating System] Windows 11 Home - Beautiful, more consistent new design, Great window layout options, Improved performance features, New videogame selection and capabilities, Compatible with Android Apps",
+                "[High Speed RAM And Enormous Space] 4GB DDR4 RAM for effortless multitasking and handling multiple browser tabs; 128GB PCle M.2 SSD for quick boot times and speedy data transfers. [Processor] Intel Core i3-1215U Processor (6 cores, 10M Cache, Base to 1.2 GHz, up to 4.4 GHz) integrated with Intel UHD Graphics for robust performance."
+            ],
+            "videos": []
+        }
+    ],
+    "meta_data": {
+        "search_suggestions": []
+    },
+    "credits_used": 2.5,
+    "remaining_credits": 61.5
+}

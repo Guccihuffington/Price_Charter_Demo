@@ -1,0 +1,4641 @@
+{
+    "success": true,
+    "platform": "costco_search",
+    "search": "Laptop",
+    "page": 1,
+    "total_results": 134,
+    "no_of_pages": 6,
+    "result_count": 24,
+    "results": [
+        {
+            "id": "1826937",
+            "retailer_id": "4000262474",
+            "name": "Dell Inspiron 15.6\" Touchscreen Laptop - AMD Ryzen 7 7730U -  FHD (1920 x 1080) -  Windows 11",
+            "url": "https://www.costco.com/dell-inspiron-15.6\"-touchscreen-laptop---amd-ryzen-7-7730u----fhd-(1920-x-1080)----windows-11.product.4000262474.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/8hqb7w7mcwkq8b6wbr4358b/1826937-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 399.99,
+            "price": 599.99,
+            "currency": "USD",
+            "rating": 3.72,
+            "total_ratings": 168,
+            "brand": "Dell",
+            "model_number": "i3535-A813BLK-PUS",
+            "in_stock": true,
+            "short_description": "Dell Inspiron 15.6\" Touchscreen Laptop - AMD Ryzen 7 7730U -  FHD (1920 x 1080) - 60Hz - Windows 11",
+            "marketing_statement": "$200 OFF",
+            "marketing_features": [
+                "AMD Ryzen 7 7730U (8-Core) Processor",
+                "Realtek Wi-Fi 5 + and Bluetooth 5.0",
+                "Integrated AMD Radeon™ Graphics",
+                "512GB PCIe® NVMe™ M.2 Solid State Drive",
+                "Microsoft® Windows 11 Home"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 2,
+            "upc": "884116426813",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "GraduationGifts",
+                "Ending616",
+                "BackToSchool",
+                "Microsoft0819",
+                "Football24Sept",
+                "Laptops916",
+                "HolidaySavingsPCs114",
+                "ComputerDeals1122",
+                "Dell1215",
+                "OrderComputer1217",
+                "Giftshop",
+                "AMDLaptops1218",
+                "",
+                "",
+                "Windows825",
+                "",
+                "",
+                "",
+                "TreasureHunt",
+                "Computers1101"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Graphics",
+                    "value": "AMD Radeon"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "15.6 in."
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1080"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "512 GB"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Processor",
+                    "value": "AMD Ryzen 7"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 1.4 Output"
+                },
+                {
+                    "key": "Processor Brand",
+                    "value": "AMD"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "1 Port (1x USB-C 3.2)"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Monthly Savings",
+                    "value": "Instant Savings"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "14 in. - 15.9 in."
+                },
+                {
+                    "key": "Color",
+                    "value": "Black"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 5"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "16 GB"
+                },
+                {
+                    "key": "Model",
+                    "value": "i3535-A813BLK-PUS"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "1x SD Memory Card Reader"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "720p"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports (1x USB-A 3.2, 1x USB-A 2.0)"
+                },
+                {
+                    "key": "Generation",
+                    "value": "AMD Ryzen 7th Generation"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.0"
+                },
+                {
+                    "key": "Brand",
+                    "value": "Dell"
+                }
+            ],
+            "retailer_badges": [
+                "Instant Savings"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/8hqb7w7mcwkq8b6wbr4358b/1826937-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1921587",
+            "retailer_id": "4000360034",
+            "name": "HP 17.3\" HD+ Touchscreen Laptop - AMD Ryzen 5 7430U - 1600 x 900 -16GB Memory - 1TB SSD - Windows 11 Home",
+            "url": "https://www.costco.com/hp-17.3\"-hd+-touchscreen-laptop---amd-ryzen-5-7430u---1600-x-900--16gb-memory---1tb-ssd---windows-11-home.product.4000360034.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/8pxb6334cn9nht9jrh97q/4000360034-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 599.99,
+            "price": 599.99,
+            "currency": "USD",
+            "rating": 2.94,
+            "total_ratings": 17,
+            "brand": "HP",
+            "model_number": "B97RFUA#ABA",
+            "in_stock": true,
+            "short_description": "HP 17.3\" HD+ Touchscreen Laptop - AMD Ryzen 5 7430U - 1600 x 900 -16GB Memory - 1TB SSD - Windows 11 Home",
+            "marketing_statement": "",
+            "marketing_features": [
+                "Accelerated Performance: AMD Ryzen™ 5 7430U (6-Core) Processor",
+                "Boost your Creativity & Productivity with the Copilot Key",
+                "HD Camera: Enhanced by AI Noise Reduction",
+                "HP Fast Charge: Go from 0 to 50% Charge in Approximately 45 minutes",
+                "Keyboard with Numeric Keypad, WiFi6, Integrated AMD Radeon™ graphics"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9997,
+            "upc": "198990687551",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "JuneOnline",
+                "Microsoft0609",
+                "",
+                "amdpush626",
+                "windows0908",
+                "Computers1117"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Processor Brand",
+                    "value": "AMD"
+                },
+                {
+                    "key": "Generation",
+                    "value": "AMD Ryzen 5th Generation"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "16 GB"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Processor",
+                    "value": "AMD Ryzen 5"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 1.4 Output"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "16 in. and Above"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "1 Port"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1600 x 900"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.4"
+                },
+                {
+                    "key": "Graphics",
+                    "value": "AMD Radeon"
+                },
+                {
+                    "key": "Model",
+                    "value": "B97RFUA#ABA"
+                },
+                {
+                    "key": "Model",
+                    "value": "17-cp3155cl"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "17.3 in."
+                },
+                {
+                    "key": "Brand",
+                    "value": "HP"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 6"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Online Only",
+                    "value": "Online Only"
+                }
+            ],
+            "retailer_badges": [
+                "Online Only"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/8pxb6334cn9nht9jrh97q/4000360034-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1815291",
+            "retailer_id": "4000251732",
+            "name": "Acer Aspire 3 15.6\" Touchscreen Laptop - AMD Ryzen 5 7520U - FHD (1920x1080) - Windows 11",
+            "url": "https://www.costco.com/acer-aspire-3-15.6\"-touchscreen-laptop---amd-ryzen-5-7520u---fhd-(1920x1080)---windows-11.product.4000251732.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/npf4vhbmkbmzb3bknrbfm9r/1815291-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 499.99,
+            "price": 499.99,
+            "currency": "USD",
+            "rating": 4.04,
+            "total_ratings": 208,
+            "brand": "Acer",
+            "model_number": "A315-24PT-R288",
+            "in_stock": true,
+            "short_description": "Acer Aspire 3 15.6\" Touchscreen Laptop",
+            "marketing_statement": "",
+            "marketing_features": [
+                "AMD Ryzen™ 5 7520U Processor",
+                "15.6\" Touchscreen Widescreen ComfyView™ LED Backlit IPS FHD (1920 x 1080) Display",
+                "Integrated AMD Radeon™ Graphics",
+                "Wi-Fi 6 (2x2/160) Gig+ and Bluetooth 5.2",
+                "Microsoft® Windows 11 Home"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9997,
+            "upc": "195133236508",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "BTS24",
+                "BackToSchool",
+                "WINDOWS0617",
+                "PC0624",
+                "BackToSchool",
+                "HolidaySavingsPCs114",
+                "HPPAV1111",
+                "NovemberValues",
+                "GiftShop",
+                "ComputerAllstate1125",
+                "AMD210",
+                "DadsandGrads",
+                "amdpush626",
+                "windows0908",
+                "",
+                "",
+                "",
+                "computers0919"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Graphics",
+                    "value": "Integrated Graphics"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "15.6 in."
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1080"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Processor",
+                    "value": "AMD Ryzen 5"
+                },
+                {
+                    "key": "Processor Brand",
+                    "value": "AMD"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Color",
+                    "value": "Silver"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 6"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "16 GB"
+                },
+                {
+                    "key": "Model",
+                    "value": "A315-24PT-R288"
+                },
+                {
+                    "key": "Generation",
+                    "value": "AMD Ryzen 7th Generation"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.2"
+                },
+                {
+                    "key": "Brand",
+                    "value": "Acer"
+                }
+            ],
+            "retailer_badges": [],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/npf4vhbmkbmzb3bknrbfm9r/1815291-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1936235",
+            "retailer_id": "4000358385",
+            "name": "Dell Inspiron 15.6\" Touchscreen Laptop - AMD Ryzen 5 7530U Processor - FHD (1920 x 1080) - Windows 11 Home",
+            "url": "https://www.costco.com/dell-inspiron-15.6\"-touchscreen-laptop---amd-ryzen-5-7530u-processor---fhd-(1920-x-1080)---windows-11-home.product.4000358385.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/s6sq3vp7jxxf87fwzpcggvx/4000358385-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 299.99,
+            "price": 499.99,
+            "currency": "USD",
+            "rating": 2.5,
+            "total_ratings": 2,
+            "brand": "Dell",
+            "model_number": "LDC15255-A261BLK-PUS / i3535-A616BLK-PUS",
+            "in_stock": true,
+            "short_description": "Dell Inspiron 15.6\" Touchscreen Laptop - AMD Ryzen 5 7530U Processor - FHD (1920 x 1080) - Windows 11 Home",
+            "marketing_statement": "$200 OFF",
+            "marketing_features": [
+                "AMD Ryzen™ 5 7530U 6-core 12-thread with Precision Boost 2",
+                "15.6-inch FHD (1920 x 1080) Display with Dell ComfortView Plus",
+                "AMD Radeon™ Graphics Leveraging the Synergies of AMD’s CPUs & GPUs",
+                "8 GB DDR4, 1TB SDD, & a Variety of Ports for Ultimate Connectivity",
+                "Enjoy a Full-size Keyboard with Numeric Keypad",
+                ""
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9997,
+            "upc": "884116430261",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "GraduationGifts",
+                "celebrategrads",
+                "DadsandGrads",
+                "",
+                "JulyOffers25",
+                "windows0908",
+                "Computers1101"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Processor Brand",
+                    "value": "AMD"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "8 GB"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports (1x USB-A 3.2, 1x USB-A 2.0)"
+                },
+                {
+                    "key": "Monthly Savings",
+                    "value": "November Connection"
+                },
+                {
+                    "key": "Processor",
+                    "value": "AMD Ryzen 5"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "1x SD Memory Card Reader"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 1.4 Output"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "14 in. - 15.9 in."
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "1 Port (1x USB-C 3.2)"
+                },
+                {
+                    "key": "Special Offer",
+                    "value": "McAfee Total Protection 1 Year"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1080"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Color",
+                    "value": "Black"
+                },
+                {
+                    "key": "Black Friday Deal",
+                    "value": "Black Friday Deal"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "720p"
+                },
+                {
+                    "key": "Graphics",
+                    "value": "Integrated Graphics"
+                },
+                {
+                    "key": "Model",
+                    "value": "LDC15255-A261BLK-PUS / i3535-A616BLK-PUS"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "15.6 in."
+                },
+                {
+                    "key": "Brand",
+                    "value": "Dell"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 5"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Online Only",
+                    "value": "Online Only"
+                }
+            ],
+            "retailer_badges": [
+                "Black Friday Deal",
+                "November Connection",
+                "Online Only"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/s6sq3vp7jxxf87fwzpcggvx/4000358385-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1920793",
+            "retailer_id": "4000359789",
+            "name": "HP 17.3\" HD+ Touchscreen Laptop - Intel Core 5 120U - (1600 x 900) - 16GB Memory - 1TB SSD - Windows 11 Home",
+            "url": "https://www.costco.com/hp-17.3\"-hd+-touchscreen-laptop---intel-core-5-120u---(1600-x-900)---16gb-memory---1tb-ssd---windows-11-home.product.4000359789.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/5m4hx4t9gk578kv9qjxjng3/4000359789-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 549.99,
+            "price": 699.99,
+            "currency": "USD",
+            "rating": 4.5,
+            "total_ratings": 4,
+            "brand": "HP",
+            "model_number": "17-cn4153cl",
+            "in_stock": true,
+            "short_description": "HP 17.3\" HD+ Touchscreen Laptop - Intel Core 5 120U - (1600 x 900) - 16GB Memory - 1TB SSD - Windows 11 Home",
+            "marketing_statement": "$150 OFF",
+            "marketing_features": [
+                "Powerful performance: Intel® Core™ 5 120U (10-Core) Processor",
+                "Boost Productivity: Copilot Key & Backlit Keyboard with Numeric Keypad",
+                "HD Camera: AI Noise Reduction for Better Video Calls",
+                "HP Fast Charge: Go From 0 to 50% Charge in About 45 Minutes",
+                "1TB SSD and Fast Connectivity with WiFi6 & Bluetooth 5.4"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "198990461427",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "Ends72025"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Graphics",
+                    "value": "Integrated Graphics"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "17.3 in."
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1600 x 900"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core 5"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 1.4b Output"
+                },
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "1 Port"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Monthly Savings",
+                    "value": "Holiday Savings"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "16 in. and Above"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 6"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "16 GB"
+                },
+                {
+                    "key": "Model",
+                    "value": "17-cn4153cl"
+                },
+                {
+                    "key": "Model",
+                    "value": "17-cn4153cl"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "-"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "720p"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Numeric Keypad"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.4"
+                },
+                {
+                    "key": "Brand",
+                    "value": "HP"
+                }
+            ],
+            "retailer_badges": [
+                "Holiday Savings"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/5m4hx4t9gk578kv9qjxjng3/4000359789-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1925100",
+            "retailer_id": "4000361810",
+            "name": "HP 14\" FHD Laptop - Intel Core i5-1334U - 1920 x 1080 - 16GB Memory - 1TB SSD - Windows 11 Home",
+            "url": "https://www.costco.com/hp-14\"-fhd-laptop---intel-core-i5-1334u---1920-x-1080---16gb-memory---1tb-ssd---windows-11-home.product.4000361810.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/m9phf9q9m9rwrgb5t4phjg/4000361810-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 579.99,
+            "price": 579.99,
+            "currency": "USD",
+            "rating": 2.5,
+            "total_ratings": 4,
+            "brand": "HP",
+            "model_number": "14-ep0355cl",
+            "in_stock": true,
+            "short_description": "HP 14\" FHD Laptop - Intel Core i5-1334U - 1920 x 1080 - 16GB Memory - 1TB SSD - Windows 11 Home",
+            "marketing_statement": "",
+            "marketing_features": [
+                "Intel® Core™ i5-1334U (10-Core) Processor for Advanced Computing",
+                "Boost your Creativity & Productivity with the Copilot Key",
+                "HD Camera: Enhanced by AI Noise Reduction, Privacy Shutter",
+                "HP Fast Charge: Go from 0 to 50% Charge in Approximately 45 Minutes",
+                "Integrated Intel® Iris® Xe Graphics for Crisp, Stunning Visuals"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "198990694696",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "GraduationGifts",
+                "celebrategrads",
+                "DadsandGrads",
+                "",
+                "Start619",
+                "",
+                "JulyOffers25"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Generation",
+                    "value": "Intel 13th Generation"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "16 GB"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core i5"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 1.4b Output"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "14 in. - 15.9 in."
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "1 Port"
+                },
+                {
+                    "key": "Special Offer",
+                    "value": "McAfee Total Protection 1 Year"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1080"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Color",
+                    "value": "Silver"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.4"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "720p"
+                },
+                {
+                    "key": "Graphics",
+                    "value": "Intel Iris Xe"
+                },
+                {
+                    "key": "Model",
+                    "value": "14-ep0355cl"
+                },
+                {
+                    "key": "Model",
+                    "value": "14-ep0355cl"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "14 in."
+                },
+                {
+                    "key": "Brand",
+                    "value": "HP"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 6"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Online Only",
+                    "value": "Online Only"
+                }
+            ],
+            "retailer_badges": [
+                "Online Only"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/m9phf9q9m9rwrgb5t4phjg/4000361810-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1940603",
+            "retailer_id": "4000369043",
+            "name": "ASUS Vivobook 15.6.\" Touchscreen Laptop - Intel® Core i7-1355U Processor - Full HD (1920 x 1080) - 1TB SSD - Windows 11",
+            "url": "https://www.costco.com/asus-vivobook-15.6.\"-touchscreen-laptop---intel®-core-i7-1355u-processor---full-hd-(1920-x-1080)---1tb-ssd---windows-11.product.4000369043.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/jqgmjvktvz4bcvfp64rft8sf/4000369043-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 699.99,
+            "price": 699.99,
+            "currency": "USD",
+            "rating": 4.0,
+            "total_ratings": 5,
+            "brand": "ASUS",
+            "model_number": "F1504VA-IS79T",
+            "in_stock": false,
+            "short_description": "ASUS Vivobook 15.6.\" Touchscreen Laptop - Intel® Core i7-1355U Processor - Full HD (1920 x 1080) - 1TB SSD - Windows 11",
+            "marketing_statement": "",
+            "marketing_features": [
+                "Full HD Touchscreen with True to Life Colors",
+                "Integrated with Intel Iris Xe Graphics for Light Gaming, Creation and Work",
+                "Look Great with an HD Camera with a Built-in Privacy Shutter",
+                "Connect Quickly with Wi-Fi 6E and Bluetooth 5.3",
+                "Work in Dim Environments with a Soft White Backlit Chiclet Keyboard"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "197105920996",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Generation",
+                    "value": "Intel 13th Generation"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "16 GB"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "3 Ports (2x USB-A 3.2, 1x USB-A 2.0)"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core i7"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 1.4 Output"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "14 in. - 15.9 in."
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "1 Port (1x USB-C 3.2)"
+                },
+                {
+                    "key": "Special Offer",
+                    "value": "McAfee Total Protection 1 Year"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1080"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Color",
+                    "value": "Silver"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.3"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "720p"
+                },
+                {
+                    "key": "Graphics",
+                    "value": "Intel Iris Xe"
+                },
+                {
+                    "key": "Model",
+                    "value": "F1504VA-IS79T"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "15.6 in."
+                },
+                {
+                    "key": "Brand",
+                    "value": "ASUS"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 6E"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Online Only",
+                    "value": "Online Only"
+                }
+            ],
+            "retailer_badges": [
+                "Online Only"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/jqgmjvktvz4bcvfp64rft8sf/4000369043-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1919479",
+            "retailer_id": "4000344777",
+            "name": "Acer Aspire 14\" AI Copilot+ PC - Intel Core Ultra 5 226V – WUXGA (1920 x 1200) Touchscreen Display - 16GB RAM - 1TB SSD - Windows 11 Home – Steel Gray",
+            "url": "https://www.costco.com/acer-aspire-14\"-ai-copilot+-pc---intel-core-ultra-5-226v-–-wuxga-(1920-x-1200)-touchscreen-display---16gb-ram---1tb-ssd---windows-11-home-–-steel-gray.product.4000344777.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/86z6r5x5w8fbgtkqt2twfrr/4000344777-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 449.99,
+            "price": 699.99,
+            "currency": "USD",
+            "rating": 3.64,
+            "total_ratings": 14,
+            "brand": "Acer",
+            "model_number": "NX.JDJAA.001",
+            "in_stock": true,
+            "short_description": "Acer Aspire 14\" AI Copilot+ PC - Intel Core Ultra 5 226V – WUXGA (1920 x 1200) Touchscreen Display - 16GB RAM - 1TB SSD - Windows 11 Home – Steel Gray",
+            "marketing_statement": "$250 OFF",
+            "marketing_features": [
+                "Intel® Core™ Ultra 5 226V (Up to 40 NPU TOPS - Up to 53 GPU TOPS)",
+                "14\" Multi-Touch IPS WUXGA (1920 x 1200) 300-Nits Display",
+                "Wi-Fi 6E with 2.4GHz, 5GHz and 6GHz Bands, Including 2x2 MU-MIMO Technology and Bluetooth® 5.3",
+                "Backlit Keyboard, Touchpad, and 1080p Webcam",
+                "Microsoft® Windows 11 Home"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html",
+                "https://www.costco.com/windows-copilot-pcs.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "195133279970",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "msgaming521",
+                "",
+                "",
+                "computers0919",
+                "Computers1101"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Graphics",
+                    "value": "Integrated Graphics"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "14 in."
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1200"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core Ultra 5"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Speaker/Line-out Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 2.1 Output"
+                },
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Copilot  Pc",
+                    "value": "Copilot+ PC"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "2x Thunderbolt 4 Ports"
+                },
+                {
+                    "key": "Monthly Savings",
+                    "value": "Holiday Savings"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "14 in. - 15.9 in."
+                },
+                {
+                    "key": "Color",
+                    "value": "Gray"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 6E"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "16 GB"
+                },
+                {
+                    "key": "Model",
+                    "value": "NX.JDJAA.001"
+                },
+                {
+                    "key": "Model",
+                    "value": "NX.JDJAA.001"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "-"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports (2x USB-A 3.2)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Thunderbolt Port"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.3"
+                },
+                {
+                    "key": "Brand",
+                    "value": "Acer"
+                }
+            ],
+            "retailer_badges": [
+                "Copilot+ PC",
+                "Holiday Savings"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/86z6r5x5w8fbgtkqt2twfrr/4000344777-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1925637",
+            "retailer_id": "4000362441",
+            "name": "ASUS Vivobook Flip 14\" OLED Touchscreen Copilot+ PC - Intel EVO Edition Powered by Intel Core Ultra 7 256V Series 2 Processor - Windows 11 - 16GB RAM - 1TB SSD",
+            "url": "https://www.costco.com/asus-vivobook-flip-14\"-oled-touchscreen-copilot+-pc---intel-evo-edition-powered-by-intel-core-ultra-7-256v-series-2-processor---windows-11---16gb-ram---1tb-ssd.product.4000362441.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/3c8fwgx6hq8prc7c4cr7gct/4000362441-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 899.99,
+            "price": 899.99,
+            "currency": "USD",
+            "rating": 4.56,
+            "total_ratings": 9,
+            "brand": "ASUS",
+            "model_number": "TP3407SA-DS74T",
+            "in_stock": true,
+            "short_description": "ASUS Vivobook Flip 14\" OLED Touchscreen Copilot+ PC - Intel EVO Edition Powered by Intel Core Ultra 7 256V Series 2 Processor - Windows 11 - 16GB RAM - 1TB SSD",
+            "marketing_statement": "",
+            "marketing_features": [
+                "Copilot+ PC — the Fastest, Most Intelligent Windows PCs, Powered by AI",
+                "360° Hinge Lets you Switch Between Laptop, Tent, Stand, or Tablet Modes",
+                "Vivid 14” OLED Touch Display with Stunning Colors and Intuitive Navigation",
+                "High-capacity Battery Keeps you Powered for Work and Play on the Go",
+                "Seamless Security with Face Login and a Built-in Physical Webcam Shield"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html",
+                "https://www.costco.com/windows-copilot-pcs.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "197105852266",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "msgaming521",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Ends615",
+                "",
+                "Windows25September",
+                "Computers1117"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Graphics",
+                    "value": "Intel Arc Graphics"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "14 in."
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1200"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core Ultra 7"
+                },
+                {
+                    "key": "Computer Type",
+                    "value": "2-in-1"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 2.1 Output"
+                },
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "1 Port (1x USB-C 3.2)"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Copilot  Pc",
+                    "value": "Copilot+ PC"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "1x Thunderbolt 4 Port"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "14 in. - 15.9 in."
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 7"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "16 GB"
+                },
+                {
+                    "key": "Model",
+                    "value": "TP3407SA-DS74T"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "1x MicroSD Memory Card Reader"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "1 Port (1x USB-A 3.2)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Thunderbolt Port"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Features",
+                    "value": "Windows Hello"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.4"
+                },
+                {
+                    "key": "Brand",
+                    "value": "ASUS"
+                }
+            ],
+            "retailer_badges": [
+                "Copilot+ PC"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/3c8fwgx6hq8prc7c4cr7gct/4000362441-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1825554",
+            "retailer_id": "4000260598",
+            "name": "HP 14\" Chromebook Plus Laptop Bundle - Intel Core i3-N305 - (1920x1080) - Includes Sleeve & Wireless Mouse",
+            "url": "https://www.costco.com/hp-14\"-chromebook-plus-laptop-bundle---intel-core-i3-n305---(1920x1080)---includes-sleeve-&-wireless-mouse.product.4000260598.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/qfv8nc6bxvcr9v2cp9mfcnsk/1825554-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 399.99,
+            "price": 399.99,
+            "currency": "USD",
+            "rating": 4.44,
+            "total_ratings": 173,
+            "brand": "HP",
+            "model_number": "14a-nf0035cl",
+            "in_stock": true,
+            "short_description": "HP 14\" Chromebook Plus Laptop Bundle - Intel Core i3-N305 - (1920x1080) - Includes Sleeve & Wireless Mouse",
+            "marketing_statement": "",
+            "marketing_features": [
+                "Intel Core i3-N305 Processor",
+                "14\" Touchscreen FHD (1920 x 1080), IPS, Micro-Edge, Anti-Glare Display",
+                "Wi-Fi 6 (2x2) and Bluetooth 5.3",
+                "HP Wireless Mouse and Protective Sleeve Included",
+                "Full-size, Backlit, Gray Keyboard",
+                ""
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/chromebooks.html",
+                "https://www.costco.com/computers.html"
+            ],
+            "max_quantity": 9998,
+            "upc": "198122167876",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "BackToSchool",
+                "AugustOffers",
+                "TVPCSpendSave",
+                "HPPreCor1124",
+                "SantaIdeas",
+                "ArrivesOnTime",
+                "",
+                "",
+                "newlp"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Emmc Size",
+                    "value": "256GB"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "8 GB"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "1 Port (1x USB-A 3.2)"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core i3"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "-"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "EPEAT Certified"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "14 in. - 15.9 in."
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "2 Ports (2x USB-C 3.2)"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "256 GB"
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1080"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Chrome OS"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "eMMC"
+                },
+                {
+                    "key": "Color",
+                    "value": "Silver"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.3"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Graphics",
+                    "value": "Intel UHD"
+                },
+                {
+                    "key": "Model",
+                    "value": "14a-nf0035cl"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "14 in."
+                },
+                {
+                    "key": "Brand",
+                    "value": "HP"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 6"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Online Only",
+                    "value": "Online Only"
+                }
+            ],
+            "retailer_badges": [
+                "Online Only"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/qfv8nc6bxvcr9v2cp9mfcnsk/1825554-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1917242",
+            "retailer_id": "4000362430",
+            "name": "Dell Plus 16\" Touchscreen Laptop - Intel Core Ultra 9 288V - 1920 x 1200 - Windows 11 Home - 32GB RAM - 1TB SSD",
+            "url": "https://www.costco.com/dell-plus-16\"-touchscreen-laptop---intel-core-ultra-9-288v---1920-x-1200---windows-11-home---32gb-ram---1tb-ssd.product.4000362430.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/4zck82sgmkmn35jbp52xmr/4000362430-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 1299.99,
+            "price": 1299.99,
+            "currency": "USD",
+            "rating": 3.78,
+            "total_ratings": 9,
+            "brand": "Dell",
+            "model_number": "LDB16250-9052BLU-PUS",
+            "in_stock": true,
+            "short_description": "Dell Plus 16\" Touchscreen Laptop - Intel Core Ultra 9 288V - 1920 x 1200 - Windows 11 Home - 32GB RAM - 1TB SSD",
+            "marketing_statement": "",
+            "marketing_features": [
+                "Intel® Core Ultra 9 288V (8-Core) Processor",
+                "16\" Touchscreen FHD+ (1920 x 1200) 300-Nits WVA Display",
+                "Wi-Fi 7 (2x2/160) Gig+ and Bluetooth 5.3",
+                "Backlit Keyboard with Fingerprint Reader",
+                "Windows 11 Home",
+                ""
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "884116483052",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "msgaming521",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "BackToSchool25July"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Graphics",
+                    "value": "Integrated Graphics"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "16 in."
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1200"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core Ultra 9"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 2.1 Output"
+                },
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "1 Port (1x USB-C 3.2)"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Copilot  Pc",
+                    "value": "Copilot+ PC"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "1x Thunderbolt 4 Port"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "16 in. and Above"
+                },
+                {
+                    "key": "Color",
+                    "value": "Blue"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 7"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "32 GB"
+                },
+                {
+                    "key": "Model",
+                    "value": "LDB16250-9052BLU-PUS"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "-"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "1 Port (1x USB-A 3.2)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Numeric Keypad"
+                },
+                {
+                    "key": "Features",
+                    "value": "Thunderbolt Port"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.3"
+                },
+                {
+                    "key": "Brand",
+                    "value": "Dell"
+                }
+            ],
+            "retailer_badges": [
+                "Copilot+ PC"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/4zck82sgmkmn35jbp52xmr/4000362430-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1977997",
+            "retailer_id": "4000380973",
+            "name": "Lenovo Legion 5i 16\" Gaming Laptop - Intel Core Ultra 9 275HX - GeForce RTX 5060 - WQXGA (2560x1600) - Windows 11 Home - 32GB RAM - 1TB SSD",
+            "url": "https://www.costco.com/lenovo-legion-5i-16\"-gaming-laptop---intel-core-ultra-9-275hx---geforce-rtx-5060---wqxga-(2560x1600)---windows-11-home---32gb-ram---1tb-ssd.product.4000380973.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/wx6cbzrrh4zxnmpp6kmrtw/4000380973-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 1499.99,
+            "price": 1499.99,
+            "currency": "USD",
+            "rating": 4.19,
+            "total_ratings": 16,
+            "brand": "Lenovo",
+            "model_number": "83NX0000US",
+            "in_stock": true,
+            "short_description": "Lenovo Legion 5i 16\" Gaming Laptop - Intel Core Ultra 9 275HX - GeForce RTX 5060 - WQXGA (2560x1600) - Windows 11 Home - 32GB RAM - 1TB SSD",
+            "marketing_statement": "",
+            "marketing_features": [
+                "Intel Core Ultra 9 275HX, 24C Processor",
+                "16\" WQXGA (2560x1600) IPS 500nits Anti-glare, 240Hz",
+                "32GB DDR5-5600 RAM",
+                "NVIDIA® GeForce RTX™ 5060 8GB GDDR7",
+                "Wi-Fi® 7 + Bluetooth 5.4",
+                ""
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/gaming-laptops.html",
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html",
+                "https://www.costco.com/pc-gaming.html"
+            ],
+            "max_quantity": 9998,
+            "upc": "198156894557",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "computers0919",
+                "Computers1117"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Graphics",
+                    "value": "NVIDIA GeForce RTX 5060"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "16 in."
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "2560 x 1600"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core Ultra 9"
+                },
+                {
+                    "key": "Computer Type",
+                    "value": "Gaming"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 2.1 Output"
+                },
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "1x RJ-45 Ethernet Port"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "1 Port (1x Thunderbolt / USB4)"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "1x Thunderbolt 4 Port"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "16 in. and Above"
+                },
+                {
+                    "key": "Color",
+                    "value": "Gray"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 7"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "32 GB"
+                },
+                {
+                    "key": "Model",
+                    "value": "83NX0000US"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "-"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "5MP"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports (2x USB-A 3.2)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Thunderbolt Port"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.4"
+                },
+                {
+                    "key": "Brand",
+                    "value": "Lenovo"
+                }
+            ],
+            "retailer_badges": [],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/wx6cbzrrh4zxnmpp6kmrtw/4000380973-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1091436",
+            "retailer_id": "4000310853",
+            "name": "Dell Inspiron 14\" Copilot+ Laptop - Snapdragon X Plus Processor (8 Core) - 1920 x 1200 - Windows 11",
+            "url": "https://www.costco.com/dell-inspiron-14\"-copilot+-laptop---snapdragon-x-plus-processor-(8-core)---1920-x-1200---windows-11.product.4000310853.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/gp8m3c7t89zt86pf7r5nq7/4000310853-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 799.99,
+            "price": 799.99,
+            "currency": "USD",
+            "rating": 3.83,
+            "total_ratings": 12,
+            "brand": "Dell",
+            "model_number": "i5441-SX8685GRY-PUS",
+            "in_stock": false,
+            "short_description": "Dell Inspiron 14\" Copilot+ Laptop - Snapdragon X Plus Processor (8 Core) - 1920 x 1200 - Windows 11",
+            "marketing_statement": "",
+            "marketing_features": [
+                "Qualcomm® Snapdragon® X Plus (8 core) X1P-42-100 Processor",
+                "Wi-Fi 7 and Bluetooth® 5.4",
+                "14\" FHD+ IPS (1920 x 1200) 300-nit Display",
+                "Back-lit Keyboard and FHD IR Webcam with Presence Detection",
+                "Microsoft Windows 11 Home"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html",
+                "https://www.costco.com/windows-copilot-pcs.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "884116429685",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "HolidayDealsEvent",
+                "",
+                "",
+                "AprilOnline",
+                "GraduationGifts",
+                "celebrategrads",
+                "Qualcomm0818",
+                "Qualcomm0908",
+                "qualcom919",
+                "Copilot0929"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Processor Brand",
+                    "value": "Qualcomm"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "16 GB"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "1 Port (1x USB-A 3.2)"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Qualcomm Snapdragon X Plus"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "1x MicroSD Memory Card Reader"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "14 in. - 15.9 in."
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Special Offer",
+                    "value": "McAfee Total Protection 1 Year"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Color",
+                    "value": "Gray"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.4"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Graphics",
+                    "value": "Integrated Graphics"
+                },
+                {
+                    "key": "Model",
+                    "value": "i5441-SX8685GRY-PUS"
+                },
+                {
+                    "key": "Model",
+                    "value": "i5441-SX8685GRY-PUS"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "14 in."
+                },
+                {
+                    "key": "Brand",
+                    "value": "Dell"
+                },
+                {
+                    "key": "Copilot  Pc",
+                    "value": "Copilot+ PC"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 7"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Online Only",
+                    "value": "Online Only"
+                }
+            ],
+            "retailer_badges": [
+                "Copilot+ PC",
+                "Online Only"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/gp8m3c7t89zt86pf7r5nq7/4000310853-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1926200",
+            "retailer_id": "4000369340",
+            "name": "HP OmniBook 5 16\" 2K Touchscreen Laptop - Intel Core Ultra 9 285H - 1920 x 1200 - 32GB Memory - 1TB SSD - Windows 11 Home",
+            "url": "https://www.costco.com/hp-omnibook-5-16\"-2k-touchscreen-laptop---intel-core-ultra-9-285h---1920-x-1200---32gb-memory---1tb-ssd---windows-11-home.product.4000369340.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/b89fr5fprshpkzjznwjx56rz/4000369340-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 849.99,
+            "price": 1149.99,
+            "currency": "USD",
+            "rating": 4.15,
+            "total_ratings": 13,
+            "brand": "HP",
+            "model_number": "16-af1095cl",
+            "in_stock": true,
+            "short_description": "HP OmniBook 5 16\" 2K Touchscreen Laptop - Intel Core Ultra 9 285H - 1920 x 1200 - 32GB Memory - 1TB SSD - Windows 11 Home",
+            "marketing_statement": "$300 OFF",
+            "marketing_features": [
+                "Intel® Core™ Ultra 9 285H (16-Core) Processor, Built-in NPU (13 TOPS)",
+                "Boost your Creativity & Productivity with the Copilot Key",
+                "FHD Camera with AI Noise Reduction & Windows Studio Effects",
+                "HP Fast Charge: Go from 0 to 50% Charge in Approximately 30 Minutes",
+                "Intel® Arc™ Graphics, Backlit Keyboard w/ Numeric Keypad, WiFi6E & Bluetooth 5.3"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9998,
+            "upc": "198990798332",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "Computers1101"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Memory  Ram ",
+                    "value": "32 GB"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Monthly Savings",
+                    "value": "Holiday Savings"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core Ultra 9"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "-"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Numeric Keypad"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 2.1 Output"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "16 in. and Above"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Special Offer",
+                    "value": "McAfee Total Protection 1 Year"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1200"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Color",
+                    "value": "Silver"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.3"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Graphics",
+                    "value": "Intel Arc 140T"
+                },
+                {
+                    "key": "Model",
+                    "value": "16-af1095cl"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "17 in."
+                },
+                {
+                    "key": "Brand",
+                    "value": "HP"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 6E"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Online Only",
+                    "value": "Online Only"
+                }
+            ],
+            "retailer_badges": [
+                "Holiday Savings",
+                "Online Only"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/b89fr5fprshpkzjznwjx56rz/4000369340-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1814020",
+            "retailer_id": "4000250599",
+            "name": "MacBook Air Laptop (13-inch) - Apple M4 chip, Built for Apple Intelligence, 10-core CPU, 8-core GPU, 16GB Memory, 256GB SSD Storage",
+            "url": "https://www.costco.com/macbook-air-laptop-(13-inch)---apple-m4-chip,-built-for-apple-intelligence,-10-core-cpu,-8-core-gpu,-16gb-memory,-256gb-ssd-storage.product.4000250599.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/2qnnvjnfvkr2rgt2cvq2vq8/4000250599-847_starlight_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 749.99,
+            "price": 949.99,
+            "currency": "USD",
+            "rating": 4.26,
+            "total_ratings": 35,
+            "brand": "Apple",
+            "model_number": "MW0Y3LL/A",
+            "in_stock": true,
+            "short_description": "MacBook Air Laptop (13-inch) - Apple M4 chip, Built for Apple Intelligence, 10-core CPU, 8-core GPU, 16GB Memory, 256GB SSD Storage, Starlight",
+            "marketing_statement": "$200 OFF",
+            "marketing_features": [
+                "SUPERCHARGED BY M4—The Apple M4 chip brings even more speed and fluidity to everything you do",
+                "BUILT FOR APPLE INTELLIGENCE—Apple Intelligence is the personal intelligence system that helps you write, express yourself, and get things done effortlessly",
+                "UP TO 18 HOURS OF BATTERY LIFE—MacBook Air delivers the same amazing performance whether it’s running on battery or plugged in",
+                "PORTABLE DESIGN—Superlight and less than half an inch thin, MacBook Air fits easily into your bag—and your on-the-go lifestyle",
+                "A BRILLIANT DISPLAY—The 13.6-inch Liquid Retina display supports one billion colors"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/macbooks.html",
+                "https://www.costco.com/apple-brand-showcase.html",
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/macbook-air.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/view-more.html",
+                "https://www.costco.com/featured-brands.html",
+                "https://www.costco.com/electronics.html"
+            ],
+            "max_quantity": 2,
+            "upc": "195949837197",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "JulyOffers25",
+                "",
+                "",
+                "",
+                "SummerSavings25",
+                "",
+                "LaborDay25",
+                "MemberSavingsDays",
+                "",
+                "1011MSD"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Processor Brand",
+                    "value": "Apple"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "16 GB"
+                },
+                {
+                    "key": "Apple Intelligence",
+                    "value": "Apple Intelligence"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Monthly Savings",
+                    "value": "Holiday Savings"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Apple M4 Chip"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Fingerprint Reader"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Lightweight"
+                },
+                {
+                    "key": "Features",
+                    "value": "Thunderbolt Port"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone Jack"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "12 in. - 13.9 in."
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "256 GB"
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "2560 x 1664"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Mac OS"
+                },
+                {
+                    "key": "Applecare  Available",
+                    "value": "AppleCare+ Available"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Color",
+                    "value": "Starlight"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.3"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "12MP"
+                },
+                {
+                    "key": "Graphics",
+                    "value": "Integrated Graphics"
+                },
+                {
+                    "key": "Model",
+                    "value": "MW0Y3LL/A"
+                },
+                {
+                    "key": "Model",
+                    "value": "MW123LL/A"
+                },
+                {
+                    "key": "Model",
+                    "value": "MW0W3LL/A"
+                },
+                {
+                    "key": "Model",
+                    "value": "MC6T4LL/A"
+                },
+                {
+                    "key": "Model",
+                    "value": "MW0Y3LL/A"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "13.6 in."
+                },
+                {
+                    "key": "Brand",
+                    "value": "Apple"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 6E"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "2x Thunderbolt 4 Ports"
+                }
+            ],
+            "retailer_badges": [
+                "Holiday Savings",
+                "AppleCare+ Available",
+                "Apple Intelligence"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/2qnnvjnfvkr2rgt2cvq2vq8/4000250599-847_starlight_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "https://bfasset.costco-static.com/U447IH35/as/2qnnvjnfvkr2rgt2cvq2vq8/4000250599-847_starlight_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "https://bfasset.costco-static.com/U447IH35/as/2qnnvjnfvkr2rgt2cvq2vq8/4000250599-847_starlight_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+                "https://bfasset.costco-static.com/U447IH35/as/2qnnvjnfvkr2rgt2cvq2vq8/4000250599-847_starlight_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": true,
+            "variants_min_price": 749.99,
+            "variants_max_price": 749.99
+        },
+        {
+            "id": "1933667",
+            "retailer_id": "4000362051",
+            "name": "Lenovo IdeaPad Slim 5 16\" Touchscreen Laptop - AMD Ryzen AI 7 350 - WUXGA (1920 x 1200) - Windows 11 Home - 16GB RAM - 1TB SSD",
+            "url": "https://www.costco.com/lenovo-ideapad-slim-5-16\"-touchscreen-laptop---amd-ryzen-ai-7-350---wuxga-(1920-x-1200)---windows-11-home---16gb-ram---1tb-ssd.product.4000362051.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/p9kcbnpk96gkmx8jvwp8x/4000362051-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 799.99,
+            "price": 799.99,
+            "currency": "USD",
+            "rating": 2.71,
+            "total_ratings": 7,
+            "brand": "Lenovo",
+            "model_number": "83HY001KUS",
+            "in_stock": true,
+            "short_description": "Lenovo IdeaPad Slim 5 16\" Touchscreen Laptop - AMD Ryzen AI 7 350 - WUXGA (1920 x 1200) - Windows 11 Home - 16GB RAM - 1TB SSD",
+            "marketing_statement": "",
+            "marketing_features": [
+                "AMD Ryzen™ AI 7 350 (8-Core) Processor",
+                "16\" Touchscreen IPS WUXGA (1920 x 1200) 300 Nits Display",
+                "Wi-Fi 7 (2x2/160MHz) and Bluetooth® 5.2",
+                "Integrated 1080p Webcam with Privacy Shutter and Backlit Keyboard",
+                "Microsoft® Windows 11 Home (64-bit)",
+                ""
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "198156188885",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "msgaming521"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Graphics",
+                    "value": "Integrated Graphics"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "16 in."
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1200"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Processor",
+                    "value": "AMD Ryzen AI 7 350"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 2.1 Output"
+                },
+                {
+                    "key": "Processor Brand",
+                    "value": "AMD"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "2 Ports (2x USB-C 3.2)"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Copilot  Pc",
+                    "value": "Copilot+ PC"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "16 in. and Above"
+                },
+                {
+                    "key": "Color",
+                    "value": "Blue"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 7"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "16 GB"
+                },
+                {
+                    "key": "Model",
+                    "value": "83HY001KUS"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "1x MicroSD Memory Card Reader"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports (2x USB-A 3.1)"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.2"
+                },
+                {
+                    "key": "Brand",
+                    "value": "Lenovo"
+                }
+            ],
+            "retailer_badges": [
+                "Copilot+ PC"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/p9kcbnpk96gkmx8jvwp8x/4000362051-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1921585",
+            "retailer_id": "4000361504",
+            "name": "HP OmniBook 7 16\" Laptop - Intel Core 9 270H - 2K OLED 120Hz Touchscreen - 32GB Memory - 1TB SSD - Windows 11 Home",
+            "url": "https://www.costco.com/hp-omnibook-7-16\"-laptop---intel-core-9-270h---2k-oled-120hz-touchscreen---32gb-memory---1tb-ssd---windows-11-home.product.4000361504.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/3xxhwm7pppctcpskbvmb38s/4000361504-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 1349.99,
+            "price": 1349.99,
+            "currency": "USD",
+            "rating": 5.0,
+            "total_ratings": 2,
+            "brand": "HP",
+            "model_number": "16-az0595cl",
+            "in_stock": true,
+            "short_description": "HP OmniBook 7 16\" Laptop - Intel Core 9 270H - 2K OLED 120Hz Touchscreen - 32GB Memory - 1TB SSD - Windows 11 Home",
+            "marketing_statement": "",
+            "marketing_features": [
+                "Robust Productivity: Intel® Core™ 9 270H (14-Core) Processor",
+                "Boost your Creativity & Productivity with the Copilot Key",
+                "5MP Camera: Enhanced by AI Noise Reduction & Poly Studio Audio Tuning",
+                "Poly Camera Pro: Enhance Calls with Auto Frame, Spotlight, Background Blur",
+                "Backlit Keyboard with Numeric Keypad, Intel® Graphics, WiFi7 & Bluetooth",
+                ""
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "198990661438",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "32 GB"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core 9"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "-"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Numeric Keypad"
+                },
+                {
+                    "key": "Features",
+                    "value": "Thunderbolt Port"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 2.1 Output"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "16 in. and Above"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "1 Port"
+                },
+                {
+                    "key": "Special Offer",
+                    "value": "McAfee Total Protection 1 Year"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "2048 x 1280"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Color",
+                    "value": "Silver"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.4"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "5MP"
+                },
+                {
+                    "key": "Graphics",
+                    "value": "Integrated Graphics"
+                },
+                {
+                    "key": "Model",
+                    "value": "16-az0595cl"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "16 in."
+                },
+                {
+                    "key": "Brand",
+                    "value": "HP"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 7"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "1x Thunderbolt 4 Port"
+                },
+                {
+                    "key": "Online Only",
+                    "value": "Online Only"
+                }
+            ],
+            "retailer_badges": [
+                "Online Only"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/3xxhwm7pppctcpskbvmb38s/4000361504-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1940835",
+            "retailer_id": "4000363492",
+            "name": "Lenovo IdeaPad Slim 3i 15.3\" Touchscreen Laptop - Intel Core 5 210H - WUXGA (1920 x 1200) - Windows 11",
+            "url": "https://www.costco.com/lenovo-ideapad-slim-3i-15.3\"-touchscreen-laptop---intel-core-5-210h---wuxga-(1920-x-1200)---windows-11.product.4000363492.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/7gpccx5b3b43krcjk9pp/4000363492-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 699.99,
+            "price": 699.99,
+            "currency": "USD",
+            "rating": 5.0,
+            "total_ratings": 2,
+            "brand": "Lenovo",
+            "model_number": "83K4000RUS",
+            "in_stock": true,
+            "short_description": "Lenovo IdeaPad Slim 3i 15.3\" Touchscreen Laptop - Intel Core 5 210H - WUXGA (1920 x 1200) - Windows 11",
+            "marketing_statement": "",
+            "marketing_features": [
+                "Intel Core 5 210H (8-Core) Processor",
+                "Wi-Fi 6 (2x2) and Bluetooth® 5.2",
+                "15.3\" Touchscreen IPS LCD WUXGA (1920 x 1200) 300-Nits Display",
+                "Backlit Keyboard and 1080p Webcam",
+                "Microsoft® Windows 11 Home (64 bit)"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "198156188786",
+            "product_status": {
+                "available_with_zero_inventory": false,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "JulyOffers25"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "16 GB"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports (2x USB-A 3.2)"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core 5"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "1x SD Memory Card Reader"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 1.4 Output"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "14 in. - 15.9 in."
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "1 Port (1x USB-C 3.2)"
+                },
+                {
+                    "key": "Special Offer",
+                    "value": "McAfee Total Protection 1 Year"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1200"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Color",
+                    "value": "Cosmic Blue"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.2"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Graphics",
+                    "value": "Intel Graphics"
+                },
+                {
+                    "key": "Model",
+                    "value": "83K4000RUS"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "15.3 in."
+                },
+                {
+                    "key": "Brand",
+                    "value": "Lenovo"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 6"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Online Only",
+                    "value": "Online Only"
+                }
+            ],
+            "retailer_badges": [
+                "Online Only"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/7gpccx5b3b43krcjk9pp/4000363492-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1923237",
+            "retailer_id": "4000359352",
+            "name": "HP OmniBook 5 16\" 2K Touchscreen Laptop - Intel Core Ultra 7 255U - 1920 x 1200 - 32GB Memory - 1TB SSD - Windows 11 Home",
+            "url": "https://www.costco.com/hp-omnibook-5-16\"-2k-touchscreen-laptop---intel-core-ultra-7-255u---1920-x-1200---32gb-memory---1tb-ssd---windows-11-home.product.4000359352.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/ch3z7mf7v5txsrc2zjn3r3k/4000359352-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 799.99,
+            "price": 999.99,
+            "currency": "USD",
+            "rating": 3.5,
+            "total_ratings": 6,
+            "brand": "HP",
+            "model_number": "16-af1173cl",
+            "in_stock": true,
+            "short_description": "HP OmniBook 5 16\" 2K Touchscreen Laptop - Intel Core Ultra 7 255U - 1920 x 1200 - 32GB Memory - 1TB SSD - Windows 11 Home",
+            "marketing_statement": "$200 OFF",
+            "marketing_features": [
+                "Intel® Core™ Ultra 7 255U (12-Core) Processor, Built-in NPU (12 TOPS)",
+                "Boost Your Creativity & Productivity with the Copilot Key",
+                "FHD Camera with AI Noise Reduction & Windows Studio Effects",
+                "HP Fast Charge: Charge Your Battery in Less Time",
+                "Backlit Keyboard with Numeric Keypad, Intel® Graphics, WiFi6 & Bluetooth",
+                ""
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "198990461526",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "Ends615",
+                "",
+                "",
+                "hpomnibook725",
+                "Windows825",
+                "",
+                "computers0919"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Graphics",
+                    "value": "Integrated Graphics"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "16 in."
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1200"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core Ultra 7"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 2.1 Output"
+                },
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Monthly Savings",
+                    "value": "Instant Savings"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "16 in. and Above"
+                },
+                {
+                    "key": "Color",
+                    "value": "Silver"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 6"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "32 GB"
+                },
+                {
+                    "key": "Model",
+                    "value": "16-af1173cl"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "-"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Numeric Keypad"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.4"
+                },
+                {
+                    "key": "Brand",
+                    "value": "HP"
+                }
+            ],
+            "retailer_badges": [
+                "Instant Savings"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/ch3z7mf7v5txsrc2zjn3r3k/4000359352-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1966999",
+            "retailer_id": "4000362052",
+            "name": "Lenovo Slim 7i 14\" OLED Touchscreen Copilot+ PC - Aura Edition - Intel Core Ultra 7 Processor 258V - Windows 11 - 32 GB RAM - 1TB SSD",
+            "url": "https://www.costco.com/lenovo-slim-7i-14\"-oled-touchscreen-copilot+-pc---aura-edition---intel-core-ultra-7-processor-258v---windows-11---32-gb-ram---1tb-ssd.product.4000362052.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/hv5v73jp2ngj94sbq8tfgf/4000362052-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 899.99,
+            "price": 1199.99,
+            "currency": "USD",
+            "rating": 3.55,
+            "total_ratings": 11,
+            "brand": "Lenovo",
+            "model_number": "83MC0005US",
+            "in_stock": true,
+            "short_description": "Lenovo Slim 7i 14\" OLED Touchscreen Copilot+ PC - Aura Edition - Intel Core Ultra 7 Processor 258V - Windows 11 - 32 GB RAM - 1TB SSD",
+            "marketing_statement": "$300 OFF",
+            "marketing_features": [
+                "Do More with AI-Powered Tools in Windows, only on Copilot+ PCs",
+                "Power Through Work with Intel® Core™ Ultra 7 Processors",
+                "See Every Detail on a Vivid 1920x1200 OLED Display",
+                "Create Anywhere with a Slim, Lightweight Design",
+                "Instantly Connect Devices with Smart Share, Exclusive to Aura Edition Devices"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "198155399695",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "msgaming521",
+                "",
+                "Windows825",
+                "computers0919",
+                "Computers1101"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Graphics",
+                    "value": "Intel Arc Graphics"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "14 in."
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1200"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core Ultra 7"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 2.1 Output"
+                },
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "2x Thunderbolt 4 Ports"
+                },
+                {
+                    "key": "Monthly Savings",
+                    "value": "Instant Savings"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "14 in. - 15.9 in."
+                },
+                {
+                    "key": "Color",
+                    "value": "Gray"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 7"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "32 GB"
+                },
+                {
+                    "key": "Model",
+                    "value": "83MC0005US"
+                },
+                {
+                    "key": "Model",
+                    "value": "83MC0005US"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "1x MicroSD Memory Card Reader"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.3"
+                },
+                {
+                    "key": "Brand",
+                    "value": "Lenovo"
+                }
+            ],
+            "retailer_badges": [
+                "Instant Savings"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/hv5v73jp2ngj94sbq8tfgf/4000362052-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1978789",
+            "retailer_id": "4000359679",
+            "name": "Acer Chromebook Plus 514 14” Touchscreen Laptop with Google AI – Intel Core 3 processor N355 – 1920 x 1200 - Chrome OS - 8GB RAM – 512GB SSD",
+            "url": "https://www.costco.com/acer-chromebook-plus-514-14”-touchscreen-laptop-with-google-ai-–-intel-core-3-processor-n355-–-1920-x-1200---chrome-os---8gb-ram-–-512gb-ssd.product.4000359679.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/hnm6brhkzb85npfjnvsns4k/4000359679-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 349.99,
+            "price": 349.99,
+            "currency": "USD",
+            "rating": 3.71,
+            "total_ratings": 21,
+            "brand": "Acer",
+            "model_number": "CB514-6HT-368E",
+            "in_stock": true,
+            "short_description": "Acer Chromebook Plus 514 14” Touchscreen Laptop with Google AI – Intel Core 3 processor N355 – 1920 x 1200 - Chrome OS - 8GB RAM – 512GB SSD",
+            "marketing_statement": "",
+            "marketing_features": [
+                "Intel® Core™ 3 Processor N355",
+                "14\" WUXGA IPS Widescreen LED-backlit Touch Display 1920 x 1200 Resolution",
+                "Intel® Wireless Wi-Fi 6E and Bluetooth® 5.3",
+                "8GB of Onboard LPDDR5X Memory and 512GB PCIe Gen4 SSD",
+                "Get 6 Months of Adobe Express Premium for Quick, Stunning Results!"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/chromebooks.html",
+                "https://www.costco.com/computers.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "195133284578",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Graphics",
+                    "value": "Intel Graphics"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "14 in."
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "14 in. - 15.9 in."
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1200"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "512 GB"
+                },
+                {
+                    "key": "Color",
+                    "value": "Gray"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core i3"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 6E"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "8 GB"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Speaker/Line-out Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 1.4 Output"
+                },
+                {
+                    "key": "Model",
+                    "value": "CB514-6HT-368E"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.3"
+                },
+                {
+                    "key": "Brand",
+                    "value": "Acer"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Chrome OS"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                }
+            ],
+            "retailer_badges": [],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/hnm6brhkzb85npfjnvsns4k/4000359679-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1741234",
+            "retailer_id": "4000151774",
+            "name": "HP 17.3\" Touchscreen Laptop - AMD Ryzen 3 7320U - Windows 11",
+            "url": "https://www.costco.com/hp-17.3\"-touchscreen-laptop---amd-ryzen-3-7320u---windows-11.product.4000151774.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/s69k5344mjwhj5q25fgrjxx/1741234-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 499.99,
+            "price": 499.99,
+            "currency": "USD",
+            "rating": 4.33,
+            "total_ratings": 359,
+            "brand": "HP",
+            "model_number": "17-cp2035cl",
+            "in_stock": false,
+            "short_description": "HP 17.3\" Touchscreen Laptop - AMD Ryzen 3 7320U - Windows 11",
+            "marketing_statement": "",
+            "marketing_features": [
+                "AMD Ryzen™ 3 7320U Processor",
+                "17.3\" Touchscreen BrightView HD+(1600 x 900) 250-Nits Display",
+                "Full-Size Keyboard with Numeric Keypad and Webcam with Privacy Shutter",
+                "802.11 Wireless-AC (2x2) and Bluetooth® 5.0",
+                "Microsoft® Windows 11 Home (64-bit)"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "197192331040",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "OffersEnding62",
+                "BackToSchool",
+                "",
+                "AugustOffers",
+                "Laptops916",
+                "TVPCSpendSave",
+                "HPPreCor1124",
+                "LastMinutePCDeals1217",
+                "Giftshop",
+                "AMDLaptops1218",
+                "AMD210",
+                "",
+                "MarchDeals",
+                "",
+                "easter"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Memory  Ram ",
+                    "value": "8 GB"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports (2x USB-A 3.2)"
+                },
+                {
+                    "key": "Processor",
+                    "value": "AMD Ryzen 3"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "-"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "EPEAT Certified"
+                },
+                {
+                    "key": "Features",
+                    "value": "Numeric Keypad"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 1.4b Output"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "16 in. and Above"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "1 Port (1x USB-C 3.2)"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "512 GB"
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1600 x 900"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.0"
+                },
+                {
+                    "key": "Graphics",
+                    "value": "Integrated Graphics"
+                },
+                {
+                    "key": "Model",
+                    "value": "17-cp2035cl"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "17.3 in."
+                },
+                {
+                    "key": "Brand",
+                    "value": "HP"
+                },
+                {
+                    "key": "Online Only",
+                    "value": "Online Only"
+                }
+            ],
+            "retailer_badges": [
+                "Online Only"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/s69k5344mjwhj5q25fgrjxx/1741234-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1926100",
+            "retailer_id": "4000361876",
+            "name": "HP OmniBook 5 16\" Touchscreen Laptop - Intel Core Ultra 5 225U - 2K 1920 x 1200 - 16GB Memory - 1TB SSD - Windows 11 Home",
+            "url": "https://www.costco.com/hp-omnibook-5-16\"-touchscreen-laptop---intel-core-ultra-5-225u---2k-1920-x-1200---16gb-memory---1tb-ssd---windows-11-home.product.4000361876.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/65338snt46xgqvc7zjxcbg8/4000361876-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 749.99,
+            "price": 749.99,
+            "currency": "USD",
+            "rating": null,
+            "total_ratings": 0,
+            "brand": "HP",
+            "model_number": "16-af1055cl",
+            "in_stock": true,
+            "short_description": "HP OmniBook 5 16\" Touchscreen Laptop - Intel Core Ultra 5 225U - 2K 1920 x 1200 - 16GB Memory - 1TB SSD - Windows 11 Home",
+            "marketing_statement": "",
+            "marketing_features": [
+                "Intel® Core™ Ultra 5 225U (12-Core) Processor, built-in NPU (12 TOPS)",
+                "Boost Your Creativity and Productivity with The Copilot Key",
+                "FHD Camera: Enhanced by AI Noise Reduction and Windows Studio Effects",
+                "HP Fast Charge: Go from 0 to 50% Charge in Approximately 30 Minutes",
+                "Backlit Keyboard with Numeric Keypad, Intel® Graphics, WiFi6 & Bluetooth",
+                ""
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "198990695037",
+            "product_status": {
+                "available_with_zero_inventory": true,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "GraduationGifts",
+                "celebrategrads",
+                "",
+                "",
+                "",
+                "",
+                "msgaming521",
+                "Computers1117"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "16 GB"
+                },
+                {
+                    "key": "Delivery Type",
+                    "value": "Warehouse Pick-up"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core Ultra 5"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "-"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "Backlit Keyboard"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Numeric Keypad"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone/Microphone Combo Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI 2.1 Output"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "16 in. and Above"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "2 Ports"
+                },
+                {
+                    "key": "Special Offer",
+                    "value": "McAfee Total Protection 1 Year"
+                },
+                {
+                    "key": "Number Of Ethernet Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Screen Resolution",
+                    "value": "1920 x 1200"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Storage Drive Type",
+                    "value": "SSD"
+                },
+                {
+                    "key": "Color",
+                    "value": "Silver"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.4"
+                },
+                {
+                    "key": "Webcam Resolution",
+                    "value": "1080p"
+                },
+                {
+                    "key": "Graphics",
+                    "value": "Integrated Graphics"
+                },
+                {
+                    "key": "Model",
+                    "value": "16-af1055cl"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "16 in."
+                },
+                {
+                    "key": "Brand",
+                    "value": "HP"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Wireless Networking",
+                    "value": "Wi-Fi 6"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "-"
+                },
+                {
+                    "key": "Online Only",
+                    "value": "Online Only"
+                }
+            ],
+            "retailer_badges": [
+                "Online Only"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/65338snt46xgqvc7zjxcbg8/4000361876-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        },
+        {
+            "id": "1940358",
+            "retailer_id": "4000361489",
+            "name": "ASUS Vivobook 16\" OLED Touchscreen Flip Copilot+ PC - Intel EVO Edition Powered by Intel Core Ultra 7 Series 2 Processor - 1TB SSD - Windows 11",
+            "url": "https://www.costco.com/asus-vivobook-16\"-oled-touchscreen-flip-copilot+-pc---intel-evo-edition-powered-by-intel-core-ultra-7-series-2-processor---1tb-ssd---windows-11.product.4000361489.html",
+            "thumbnail": "https://bfasset.costco-static.com/U447IH35/as/sp4z2nfz8xbgnmsmvtrsjm9n/4000361489-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+            "price_reduced": 1349.99,
+            "price": 1349.99,
+            "currency": "USD",
+            "rating": 3.67,
+            "total_ratings": 6,
+            "brand": "ASUS",
+            "model_number": "TP3607SA-PS77T",
+            "in_stock": true,
+            "short_description": "ASUS Vivobook 16\" OLED Touchscreen Flip Copilot+ PC - Intel EVO Edition Powered by Intel Core Ultra 7 Series 2 Processor - 1TB SSD - Windows 11",
+            "marketing_statement": "",
+            "marketing_features": [
+                "Copilot+ PC — The Fastest, Most Intelligent Windows Pcs, Powered by AI",
+                "360° Hinge Lets You Switch Between Laptop, Tent, Stand, or Tablet Modes",
+                "Vivid 16” OLED Touch 120Hz Display Offers Stunning Colors and Intuitive Navigation",
+                "High-Capacity Battery Keeps You Powered for Work and Play on the Go",
+                "Seamless Security with Face Login and a Built-In Physical Webcam Shield"
+            ],
+            "is_member_only": false,
+            "categories": [
+                "https://www.costco.com/laptops.html",
+                "https://www.costco.com/computers.html",
+                "https://www.costco.com/pc-laptops.html",
+                "https://www.costco.com/windows-copilot-pcs.html"
+            ],
+            "max_quantity": 9999,
+            "upc": "197105847194",
+            "product_status": {
+                "available_with_zero_inventory": false,
+                "published": true,
+                "available_with_backorder": false
+            },
+            "keywords": [
+                "GraduationGifts",
+                "celebrategrads",
+                "MayOffers25",
+                "microsoft0512",
+                "",
+                "",
+                "",
+                "",
+                "msgaming521",
+                "Ends615",
+                "J4Offers25"
+            ],
+            "is_item_review_eligible": true,
+            "is_item_buyable": true,
+            "is_item_comparable": true,
+            "attributes": [
+                {
+                    "key": "Processor Brand",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Memory  Ram ",
+                    "value": "32 GB"
+                },
+                {
+                    "key": "Number Of Usb A Ports",
+                    "value": "1 Port (1x USB-A 3.2)"
+                },
+                {
+                    "key": "Processor",
+                    "value": "Intel Core Ultra 7"
+                },
+                {
+                    "key": "Memory Card Slot",
+                    "value": "1x MicroSD Memory Card Reader"
+                },
+                {
+                    "key": "Features",
+                    "value": "Bluetooth"
+                },
+                {
+                    "key": "Features",
+                    "value": "Integrated Webcam"
+                },
+                {
+                    "key": "Features",
+                    "value": "Thunderbolt Port"
+                },
+                {
+                    "key": "Features",
+                    "value": "Touchscreen"
+                },
+                {
+                    "key": "Features",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Number Of Audio Ports",
+                    "value": "1x Headphone Jack"
+                },
+                {
+                    "key": "Number Of Hdmi Ports",
+                    "value": "1x HDMI Output"
+                },
+                {
+                    "key": "Laptop Screen Size",
+                    "value": "16 in. and Above"
+                },
+                {
+                    "key": "Number Of Usb C Ports",
+                    "value": "1 Port (1x USB-C 3.2)"
+                },
+                {
+                    "key": "Ssd Size",
+                    "value": "1 TB"
+                },
+                {
+                    "key": "Operating System",
+                    "value": "Windows OS"
+                },
+                {
+                    "key": "Bluetooth Version",
+                    "value": "Bluetooth 5.4"
+                },
+                {
+                    "key": "Graphics",
+                    "value": "Intel Arc Graphics"
+                },
+                {
+                    "key": "Model",
+                    "value": "TP3607SA-PS77T"
+                },
+                {
+                    "key": "Model",
+                    "value": "TP3607SA-PS77T"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Edd Chubsmallpack",
+                    "value": "0"
+                },
+                {
+                    "key": "Screen Size",
+                    "value": "16 in."
+                },
+                {
+                    "key": "Brand",
+                    "value": "ASUS"
+                },
+                {
+                    "key": "Copilot  Pc",
+                    "value": "Copilot+ PC"
+                },
+                {
+                    "key": "Optical Drive",
+                    "value": "No Optical Drive"
+                },
+                {
+                    "key": "Number Of Thunderbolt Ports",
+                    "value": "1x Thunderbolt 4 Port"
+                },
+                {
+                    "key": "Online Only",
+                    "value": "Online Only"
+                }
+            ],
+            "retailer_badges": [
+                "Copilot+ PC",
+                "Online Only"
+            ],
+            "is_future_release": false,
+            "is_item_fsa_eligible": false,
+            "is_warehouse_only": false,
+            "additional_images": [
+                "https://bfasset.costco-static.com/U447IH35/as/sp4z2nfz8xbgnmsmvtrsjm9n/4000361489-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+            ],
+            "has_variants": false,
+            "variants_min_price": null,
+            "variants_max_price": null
+        }
+    ],
+    "meta_data": {},
+    "credits_used": 1,
+    "remaining_credits": 76.0
+}
